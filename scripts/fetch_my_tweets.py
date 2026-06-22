@@ -5,10 +5,11 @@ fetch_my_tweets.py
 @moo_stock の過去ツイートとエンゲージメント指標を twitterapi.io から取得し、
 data/tweet_history.json に蓄積（upsert）するスクリプト。
 
-設計（高頻度アカウント対応）:
-- 取得期間を CHUNK_DAYS 日ごとに区切り、各区間で advanced_search を回す。
-  （from:user を1本のcursorで深掘りすると50ページ超で不安定になるため、区間分割で回避）
-- 各区間は has_next_page が false になるまで next_cursor でページング。
+取得方式:
+- /twitter/user/last_tweets（ユーザーのタイムラインを created_at 降順で辿る）を使用。
+  検索(advanced_search)は Twitter 側で since:/until: が無効化され古い分を遡れないため、
+  タイムライン走査に切り替えている。1ページ20件、cursor でページング。
+- 新しい順に取得し、FETCH_WINDOW_DAYS より古いツイートに達したら停止。
 - 既存ツイートは指標を「更新」する（いいね/RT等は投稿後しばらく伸びるため）。
 - リプライ・リツイートは除外し、オリジナル投稿（ニュース投稿・ランキング等）を対象。
 
@@ -16,7 +17,6 @@ data/tweet_history.json に蓄積（upsert）するスクリプト。
   TWITTERAPI_IO_KEY  twitterapi.io のダッシュボードで発行した API キー
   X_USERNAME         自分の X ユーザー名（@ なし）。既定 moo_stock
   FETCH_WINDOW_DAYS  遡及日数（既定 30）
-  CHUNK_DAYS         1区間の日数（既定 7）
 """
 
 import os
@@ -28,10 +28,10 @@ from datetime import datetime, timezone, timedelta
 import requests
 
 BASE = "https://api.twitterapi.io"
-SEARCH = f"{BASE}/twitter/tweet/advanced_search"
+TIMELINE = f"{BASE}/twitter/user/last_tweets"
 OUT_PATH = os.environ.get("OUT_PATH", "data/tweet_history.json")
 COST_PER_TWEET = 0.00015          # USD, 参考表示用
-MAX_PAGES_PER_CHUNK = 50          # 1区間あたりのページ上限（安全弁）
+MAX_PAGES = 300                   # 安全弁（1ページ20件 → 最大6000件相当）
 
 
 def env(name, default=None, required=False):
@@ -53,35 +53,48 @@ def pick(d, *keys, default=0):
     return default
 
 
-def fetch_chunk(api_key, username, since_date, until_date):
-    """from:username の [since_date, until_date) を全ページ取得して返す。"""
-    headers = {"X-API-Key": api_key}
-    query = (f"from:{username} since:{since_date} until:{until_date} "
-             f"-filter:replies -filter:nativeretweets")
-    params = {"query": query, "queryType": "Latest"}
+def parse_created(s):
+    """createdAt 例: 'Fri Jun 19 23:59:50 +0000 2026' を aware datetime に。"""
+    try:
+        return datetime.strptime(s, "%a %b %d %H:%M:%S %z %Y")
+    except Exception:
+        return None
 
+
+def fetch_timeline(api_key, username, cutoff):
+    """タイムラインを新しい順に辿り、cutoff より新しいツイートを集めて返す。"""
+    headers = {"X-API-Key": api_key}
+    params = {"userName": username}
     collected = []
     cursor = None
-    for page in range(MAX_PAGES_PER_CHUNK):
+
+    for page in range(MAX_PAGES):
         if cursor:
             params["cursor"] = cursor
         for attempt in range(3):
             try:
-                r = requests.get(SEARCH, headers=headers, params=params, timeout=30)
+                r = requests.get(TIMELINE, headers=headers, params=params, timeout=30)
                 r.raise_for_status()
                 break
             except requests.RequestException as e:
                 wait = 2 ** attempt
-                print(f"    [WARN] リクエスト失敗 ({e}); {wait}s 後にリトライ")
+                print(f"  [WARN] リクエスト失敗 ({e}); {wait}s 後にリトライ")
                 time.sleep(wait)
         else:
-            print("    [ERROR] リトライ上限。この区間を中断。")
+            print("  [ERROR] リトライ上限。取得を中断。")
             break
 
         body = r.json()
         tweets = body.get("tweets", [])
+        if not tweets:                       # 空ページ＝終端（has_next_pageの偽陽性対策）
+            break
         collected.extend(tweets)
 
+        oldest = parse_created(tweets[-1].get("createdAt", ""))
+        print(f"  page {page + 1}: +{len(tweets)} 件 (累計 {len(collected)})"
+              + (f" / 最古 {oldest.date()}" if oldest else ""))
+        if oldest and oldest < cutoff:       # 期間外まで遡ったら終了
+            break
         if not body.get("has_next_page"):
             break
         cursor = body.get("next_cursor")
@@ -118,54 +131,47 @@ def main():
     api_key = env("TWITTERAPI_IO_KEY", required=True)
     username = env("X_USERNAME", "moo_stock").lstrip("@")
     window_days = int(env("FETCH_WINDOW_DAYS", "30"))
-    chunk_days = int(env("CHUNK_DAYS", "7"))
 
     now = datetime.now(timezone.utc)
     now_iso = now.isoformat()
-    start = now - timedelta(days=window_days)
+    cutoff = now - timedelta(days=window_days)
+
+    print(f"[INFO] @{username} のタイムラインを {window_days} 日ぶん遡って取得します")
+    raw = fetch_timeline(api_key, username, cutoff)
+    print(f"[INFO] 取得 {len(raw)} 件 / 概算コスト ${len(raw) * COST_PER_TWEET:.4f}")
 
     history = load_history(OUT_PATH)
     history["username"] = username
     store = history.setdefault("tweets", {})
 
-    print(f"[INFO] @{username} の直近 {window_days} 日を {chunk_days} 日区切りで取得します")
-
-    total_raw = 0
     new_count = 0
-    chunk_start = start
-    while chunk_start < now:
-        chunk_end = min(chunk_start + timedelta(days=chunk_days), now)
-        s = chunk_start.strftime("%Y-%m-%d")
-        e = chunk_end.strftime("%Y-%m-%d")
-        print(f"  区間 {s} 〜 {e} を取得中 ...")
-        raw = fetch_chunk(api_key, username, s, e)
-        total_raw += len(raw)
-        print(f"    取得 {len(raw)} 件")
-
-        for t in raw:
-            rec = normalize(t)
-            tid = rec["id"]
-            if not tid or tid == "None" or rec["is_reply"]:
-                continue
-            if tid in store:
-                first_seen = store[tid].get("first_seen", now_iso)
-                store[tid].update(rec)
-                store[tid]["first_seen"] = first_seen
-                store[tid]["last_fetched"] = now_iso
-            else:
-                rec["first_seen"] = now_iso
-                rec["last_fetched"] = now_iso
-                store[tid] = rec
-                new_count += 1
-
-        chunk_start = chunk_end
+    kept = 0
+    for t in raw:
+        rec = normalize(t)
+        tid = rec["id"]
+        if not tid or tid == "None" or rec["is_reply"]:
+            continue
+        dt = parse_created(rec["created_at"])
+        if dt and dt < cutoff:               # 期間外は保存しない
+            continue
+        kept += 1
+        if tid in store:
+            first_seen = store[tid].get("first_seen", now_iso)
+            store[tid].update(rec)
+            store[tid]["first_seen"] = first_seen
+            store[tid]["last_fetched"] = now_iso
+        else:
+            rec["first_seen"] = now_iso
+            rec["last_fetched"] = now_iso
+            store[tid] = rec
+            new_count += 1
 
     history["last_run"] = now_iso
     os.makedirs(os.path.dirname(OUT_PATH) or ".", exist_ok=True)
     with open(OUT_PATH, "w", encoding="utf-8") as f:
         json.dump(history, f, ensure_ascii=False, indent=2)
 
-    print(f"[INFO] 取得のべ {total_raw} 件 / 概算コスト ${total_raw * COST_PER_TWEET:.4f}")
+    print(f"[INFO] 期間内の対象（リプライ/RT除く）: {kept} 件")
     print(f"[DONE] 新規 {new_count} 件 / 累計 {len(store)} 件 を {OUT_PATH} に保存しました")
 
 
