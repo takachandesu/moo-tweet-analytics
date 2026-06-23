@@ -1,6 +1,6 @@
 {
   "username": "moo_stock",
-  "last_run": "2026-06-23T00:05:43.706733+00:00",
+  "last_run": "2026-06-23T00:46:40.937923+00:00",
   "tweets": {
     "2068121611463458982": {
       "id": "2068121611463458982",
@@ -14,7 +14,11 @@
       "bookmarks": 0,
       "views": 135,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 137,
+      "link_clicks": 0,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2067951748258353465": {
       "id": "2067951748258353465",
@@ -28,7 +32,11 @@
       "bookmarks": 0,
       "views": 130,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 131,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2067941524894093423": {
       "id": "2067941524894093423",
@@ -42,7 +50,11 @@
       "bookmarks": 0,
       "views": 90,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 91,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2067926216955330683": {
       "id": "2067926216955330683",
@@ -56,7 +68,11 @@
       "bookmarks": 0,
       "views": 503,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 504,
+      "link_clicks": 0,
+      "profile_clicks": 1,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2067926153785196571": {
       "id": "2067926153785196571",
@@ -70,7 +86,11 @@
       "bookmarks": 0,
       "views": 125,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 126,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2067895285037031880": {
       "id": "2067895285037031880",
@@ -84,7 +104,11 @@
       "bookmarks": 0,
       "views": 479,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 486,
+      "link_clicks": 1,
+      "profile_clicks": 1,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2067874600009253060": {
       "id": "2067874600009253060",
@@ -98,7 +122,11 @@
       "bookmarks": 0,
       "views": 36,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 37,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2067813289166327842": {
       "id": "2067813289166327842",
@@ -112,7 +140,11 @@
       "bookmarks": 0,
       "views": 263,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 264,
+      "link_clicks": 1,
+      "profile_clicks": 2,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2067793613183168528": {
       "id": "2067793613183168528",
@@ -126,7 +158,11 @@
       "bookmarks": 0,
       "views": 64,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 65,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2067787325325652340": {
       "id": "2067787325325652340",
@@ -140,7 +176,11 @@
       "bookmarks": 0,
       "views": 295,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 296,
+      "link_clicks": 1,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2067764339075932587": {
       "id": "2067764339075932587",
@@ -154,7 +194,11 @@
       "bookmarks": 0,
       "views": 163,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 165,
+      "link_clicks": 0,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2067748701242556601": {
       "id": "2067748701242556601",
@@ -168,7 +212,11 @@
       "bookmarks": 0,
       "views": 47,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 49,
+      "link_clicks": null,
+      "profile_clicks": 1,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2067719657197379782": {
       "id": "2067719657197379782",
@@ -182,7 +230,11 @@
       "bookmarks": 0,
       "views": 74,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 75,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2067719656375259445": {
       "id": "2067719656375259445",
@@ -196,7 +248,11 @@
       "bookmarks": 0,
       "views": 38,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 39,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2067644744667103583": {
       "id": "2067644744667103583",
@@ -210,7 +266,11 @@
       "bookmarks": 0,
       "views": 199,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 200,
+      "link_clicks": null,
+      "profile_clicks": 2,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2067561409920287174": {
       "id": "2067561409920287174",
@@ -224,7 +284,11 @@
       "bookmarks": 0,
       "views": 685,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 687,
+      "link_clicks": 3,
+      "profile_clicks": 2,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2067561347907260778": {
       "id": "2067561347907260778",
@@ -238,7 +302,11 @@
       "bookmarks": 0,
       "views": 552,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 554,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2067546217400123639": {
       "id": "2067546217400123639",
@@ -252,7 +320,11 @@
       "bookmarks": 0,
       "views": 48,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 49,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2067509976021512399": {
       "id": "2067509976021512399",
@@ -266,7 +338,11 @@
       "bookmarks": 0,
       "views": 387,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 387,
+      "link_clicks": 3,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2067476440858386537": {
       "id": "2067476440858386537",
@@ -280,7 +356,11 @@
       "bookmarks": 0,
       "views": 72,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 72,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2067439462401839490": {
       "id": "2067439462401839490",
@@ -294,7 +374,11 @@
       "bookmarks": 0,
       "views": 262,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 263,
+      "link_clicks": 0,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2067421764171235838": {
       "id": "2067421764171235838",
@@ -308,7 +392,11 @@
       "bookmarks": 0,
       "views": 506,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 508,
+      "link_clicks": 0,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2067400705950749025": {
       "id": "2067400705950749025",
@@ -322,7 +410,11 @@
       "bookmarks": 0,
       "views": 38,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 38,
+      "link_clicks": null,
+      "profile_clicks": 1,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2067398683864523023": {
       "id": "2067398683864523023",
@@ -336,7 +428,11 @@
       "bookmarks": 0,
       "views": 65,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 67,
+      "link_clicks": 0,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2067381316744552905": {
       "id": "2067381316744552905",
@@ -350,7 +446,11 @@
       "bookmarks": 0,
       "views": 32,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 32,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2067376047121977788": {
       "id": "2067376047121977788",
@@ -364,7 +464,11 @@
       "bookmarks": 0,
       "views": 38,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 38,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2067358867470913753": {
       "id": "2067358867470913753",
@@ -378,7 +482,11 @@
       "bookmarks": 0,
       "views": 37,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 37,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2067229582219198716": {
       "id": "2067229582219198716",
@@ -392,7 +500,11 @@
       "bookmarks": 0,
       "views": 51,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 51,
+      "link_clicks": null,
+      "profile_clicks": 1,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2067227908343480339": {
       "id": "2067227908343480339",
@@ -406,7 +518,11 @@
       "bookmarks": 0,
       "views": 159,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 160,
+      "link_clicks": null,
+      "profile_clicks": 2,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2067206047211868630": {
       "id": "2067206047211868630",
@@ -420,7 +536,11 @@
       "bookmarks": 0,
       "views": 673,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 673,
+      "link_clicks": 3,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2067205975992410586": {
       "id": "2067205975992410586",
@@ -434,7 +554,11 @@
       "bookmarks": 0,
       "views": 149,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 149,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2067170641153790152": {
       "id": "2067170641153790152",
@@ -448,7 +572,11 @@
       "bookmarks": 0,
       "views": 15,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 15,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2067161317685842110": {
       "id": "2067161317685842110",
@@ -462,7 +590,11 @@
       "bookmarks": 0,
       "views": 177,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 177,
+      "link_clicks": 0,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2067090720218055036": {
       "id": "2067090720218055036",
@@ -476,7 +608,11 @@
       "bookmarks": 0,
       "views": 28,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 28,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2067078331795910681": {
       "id": "2067078331795910681",
@@ -490,7 +626,11 @@
       "bookmarks": 0,
       "views": 81,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 81,
+      "link_clicks": 0,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2067059716497559706": {
       "id": "2067059716497559706",
@@ -504,7 +644,11 @@
       "bookmarks": 0,
       "views": 248,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 249,
+      "link_clicks": 4,
+      "profile_clicks": 1,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2067037014524858726": {
       "id": "2067037014524858726",
@@ -518,7 +662,11 @@
       "bookmarks": 0,
       "views": 163,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 166,
+      "link_clicks": 0,
+      "profile_clicks": 1,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2067033787612221831": {
       "id": "2067033787612221831",
@@ -532,7 +680,11 @@
       "bookmarks": 0,
       "views": 25,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 25,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2067011796834116093": {
       "id": "2067011796834116093",
@@ -546,7 +698,11 @@
       "bookmarks": 0,
       "views": 15,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 15,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2066875069133918398": {
       "id": "2066875069133918398",
@@ -558,9 +714,13 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 78,
+      "views": 79,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 80,
+      "link_clicks": null,
+      "profile_clicks": 1,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2066848639234744519": {
       "id": "2066848639234744519",
@@ -574,7 +734,11 @@
       "bookmarks": 0,
       "views": 644,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 644,
+      "link_clicks": 4,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2066848636970164544": {
       "id": "2066848636970164544",
@@ -588,7 +752,11 @@
       "bookmarks": 0,
       "views": 30,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 31,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2066848584260080068": {
       "id": "2066848584260080068",
@@ -602,7 +770,11 @@
       "bookmarks": 0,
       "views": 311,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 313,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2066804247002227072": {
       "id": "2066804247002227072",
@@ -616,7 +788,11 @@
       "bookmarks": 0,
       "views": 179,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 179,
+      "link_clicks": 0,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2066716689878618582": {
       "id": "2066716689878618582",
@@ -630,7 +806,11 @@
       "bookmarks": 0,
       "views": 200,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 201,
+      "link_clicks": 0,
+      "profile_clicks": 2,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2066698808302420110": {
       "id": "2066698808302420110",
@@ -644,7 +824,11 @@
       "bookmarks": 0,
       "views": 181,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 182,
+      "link_clicks": 0,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2066677911143506350": {
       "id": "2066677911143506350",
@@ -658,7 +842,11 @@
       "bookmarks": 0,
       "views": 107,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 107,
+      "link_clicks": 0,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2066538949275951206": {
       "id": "2066538949275951206",
@@ -672,7 +860,11 @@
       "bookmarks": 0,
       "views": 141,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 142,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2066504666574385461": {
       "id": "2066504666574385461",
@@ -686,7 +878,11 @@
       "bookmarks": 0,
       "views": 563,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:05:43.706733+00:00",
+      "organic_impressions": 565,
+      "link_clicks": null,
+      "profile_clicks": 1,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2066503250518368567": {
       "id": "2066503250518368567",
@@ -700,7 +896,11 @@
       "bookmarks": 0,
       "views": 310,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:05:43.706733+00:00",
+      "organic_impressions": 310,
+      "link_clicks": 1,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2066503168389710292": {
       "id": "2066503168389710292",
@@ -714,7 +914,11 @@
       "bookmarks": 0,
       "views": 95,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:05:43.706733+00:00",
+      "organic_impressions": 95,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2066466320892485836": {
       "id": "2066466320892485836",
@@ -728,7 +932,11 @@
       "bookmarks": 0,
       "views": 45,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:05:43.706733+00:00",
+      "organic_impressions": 45,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2066444723837906957": {
       "id": "2066444723837906957",
@@ -742,7 +950,11 @@
       "bookmarks": 0,
       "views": 70,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:05:43.706733+00:00",
+      "organic_impressions": 70,
+      "link_clicks": 0,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2066368763872575672": {
       "id": "2066368763872575672",
@@ -756,7 +968,11 @@
       "bookmarks": 0,
       "views": 12,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:05:43.706733+00:00",
+      "organic_impressions": 13,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2066353982369329515": {
       "id": "2066353982369329515",
@@ -770,7 +986,11 @@
       "bookmarks": 0,
       "views": 105,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:05:43.706733+00:00",
+      "organic_impressions": 106,
+      "link_clicks": 0,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2068814485159026953": {
       "id": "2068814485159026953",
@@ -784,7 +1004,11 @@
       "bookmarks": 0,
       "views": 38,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 38,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2068686028928643121": {
       "id": "2068686028928643121",
@@ -798,7 +1022,11 @@
       "bookmarks": 0,
       "views": 43,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 43,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2068657612875600188": {
       "id": "2068657612875600188",
@@ -812,7 +1040,11 @@
       "bookmarks": 0,
       "views": 126,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 126,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2068611775768215970": {
       "id": "2068611775768215970",
@@ -826,7 +1058,11 @@
       "bookmarks": 0,
       "views": 157,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 157,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2068541086671274035": {
       "id": "2068541086671274035",
@@ -840,7 +1076,11 @@
       "bookmarks": 0,
       "views": 223,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 223,
+      "link_clicks": null,
+      "profile_clicks": 1,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2068456186744328583": {
       "id": "2068456186744328583",
@@ -854,7 +1094,11 @@
       "bookmarks": 0,
       "views": 28,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 28,
+      "link_clicks": 0,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2068306704236736928": {
       "id": "2068306704236736928",
@@ -868,7 +1112,11 @@
       "bookmarks": 0,
       "views": 37,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 39,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2068275574703788415": {
       "id": "2068275574703788415",
@@ -882,7 +1130,11 @@
       "bookmarks": 0,
       "views": 150,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 151,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2068227577680892141": {
       "id": "2068227577680892141",
@@ -896,7 +1148,11 @@
       "bookmarks": 0,
       "views": 157,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 158,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2068166588134494641": {
       "id": "2068166588134494641",
@@ -910,7 +1166,11 @@
       "bookmarks": 0,
       "views": 157,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 158,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2068126327471825153": {
       "id": "2068126327471825153",
@@ -924,7 +1184,11 @@
       "bookmarks": 1,
       "views": 231,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 232,
+      "link_clicks": 2,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2069208820635803836": {
       "id": "2069208820635803836",
@@ -936,9 +1200,13 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 13,
+      "views": 45,
       "first_seen": "2026-06-23T00:05:43.706733+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 44,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2069194117033181395": {
       "id": "2069194117033181395",
@@ -952,7 +1220,11 @@
       "bookmarks": 0,
       "views": 7,
       "first_seen": "2026-06-23T00:05:43.706733+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 7,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2069192774147334447": {
       "id": "2069192774147334447",
@@ -964,9 +1236,13 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 32,
+      "views": 44,
       "first_seen": "2026-06-23T00:05:43.706733+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 44,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2069191587754848664": {
       "id": "2069191587754848664",
@@ -978,9 +1254,13 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 45,
+      "views": 48,
       "first_seen": "2026-06-23T00:05:43.706733+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 47,
+      "link_clicks": 1,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2069093355519406429": {
       "id": "2069093355519406429",
@@ -992,9 +1272,13 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 732,
+      "views": 735,
       "first_seen": "2026-06-23T00:05:43.706733+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 740,
+      "link_clicks": null,
+      "profile_clicks": 1,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2069089058043863073": {
       "id": "2069089058043863073",
@@ -1008,7 +1292,11 @@
       "bookmarks": 0,
       "views": 116,
       "first_seen": "2026-06-23T00:05:43.706733+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 116,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2069086028082872640": {
       "id": "2069086028082872640",
@@ -1022,7 +1310,11 @@
       "bookmarks": 0,
       "views": 295,
       "first_seen": "2026-06-23T00:05:43.706733+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 295,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2069035766513049975": {
       "id": "2069035766513049975",
@@ -1034,9 +1326,13 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 516,
+      "views": 517,
       "first_seen": "2026-06-23T00:05:43.706733+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 518,
+      "link_clicks": 1,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2069035703862989151": {
       "id": "2069035703862989151",
@@ -1048,9 +1344,13 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 474,
+      "views": 475,
       "first_seen": "2026-06-23T00:05:43.706733+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 476,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2068991736517665028": {
       "id": "2068991736517665028",
@@ -1062,9 +1362,13 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 1060,
+      "views": 1063,
       "first_seen": "2026-06-23T00:05:43.706733+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 1069,
+      "link_clicks": null,
+      "profile_clicks": 1,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2068981687254397440": {
       "id": "2068981687254397440",
@@ -1078,7 +1382,11 @@
       "bookmarks": 0,
       "views": 504,
       "first_seen": "2026-06-23T00:05:43.706733+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 507,
+      "link_clicks": 2,
+      "profile_clicks": 1,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2068960326180131189": {
       "id": "2068960326180131189",
@@ -1092,7 +1400,11 @@
       "bookmarks": 0,
       "views": 95,
       "first_seen": "2026-06-23T00:05:43.706733+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 97,
+      "link_clicks": null,
+      "profile_clicks": 3,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2068891120436699259": {
       "id": "2068891120436699259",
@@ -1106,7 +1418,11 @@
       "bookmarks": 0,
       "views": 289,
       "first_seen": "2026-06-23T00:05:43.706733+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 289,
+      "link_clicks": 0,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     },
     "2068877029940896014": {
       "id": "2068877029940896014",
@@ -1120,7 +1436,65 @@
       "bookmarks": 0,
       "views": 61,
       "first_seen": "2026-06-23T00:05:43.706733+00:00",
-      "last_fetched": "2026-06-23T00:05:43.706733+00:00"
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 61,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+    },
+    "2069213756505395352": {
+      "id": "2069213756505395352",
+      "created_at": "Tue Jun 23 00:19:38 +0000 2026",
+      "text": "今朝のADR動向 (6/23)\n\n上がってる:\n三菱自動車 +58.8%\nアサヒ +24.2%\nレゾナックHD +11.3%\nキオクシアHD +9.9%\n\n下がってる:\n日本郵政 -5.4%\n豊田通商 -4.7%\n三井金属鉱 -4.7%\nニトリ -3.9%\n\nニュース詳細はプロフィールのリンクと固定ポストに。",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 202,
+      "first_seen": "2026-06-23T00:46:40.937923+00:00",
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 196,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+    },
+    "2069212584658534691": {
+      "id": "2069212584658534691",
+      "created_at": "Tue Jun 23 00:14:58 +0000 2026",
+      "text": "🔴速報\nベトナムの化粧品スタートアップ、中国の270億ドル市場を標的に\n\n詳細はプロフィール固定の「News Headline Monitor」へ",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 7,
+      "first_seen": "2026-06-23T00:46:40.937923+00:00",
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 7,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+    },
+    "2068905057748431299": {
+      "id": "2068905057748431299",
+      "created_at": "Mon Jun 22 03:52:58 +0000 2026",
+      "text": "日本株は最高値更新。フィジカルAIを中心に上昇\n\n戦略１７分野、４０年度までに３７０兆円超の官民投資…自律ロボなど「フィジカルＡＩ」\nとの週末報道で。\n\nhttps://t.co/BrBatuC9uM",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 64,
+      "first_seen": "2026-06-23T00:46:40.937923+00:00",
+      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
+      "organic_impressions": 64,
+      "link_clicks": 1,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
     }
   }
 }
