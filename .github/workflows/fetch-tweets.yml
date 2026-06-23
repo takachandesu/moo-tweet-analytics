@@ -2,21 +2,24 @@ name: Fetch My Tweets
 
 on:
   schedule:
-    # 毎週月曜 00:30 UTC (= 月曜 09:30 JST)。蓄積を最新化する。
-    - cron: "30 0 * * 1"
-  workflow_dispatch: {}   # 初回・手動実行はここから
+    - cron: "30 0 * * 1"     # 毎週月曜 09:30 JST
+  workflow_dispatch: {}
 
 permissions:
-  contents: write          # 取得結果(JSON)をリポジトリにコミットするため
+  contents: write
 
 jobs:
   fetch:
     runs-on: ubuntu-latest
     env:
-      X_USERNAME: moo_stock          # 分析対象アカウント（@なし）
-      FETCH_WINDOW_DAYS: "30"        # 初回は直近30日。広げたい時はここを増やす
-      CHUNK_DAYS: "7"                # 取得を7日区切りで回す
+      X_USERNAME: moo_stock
+      FETCH_WINDOW_DAYS: "30"
       TWITTERAPI_IO_KEY: ${{ secrets.TWITTERAPI_IO_KEY }}
+      # 公式X API（organic_metrics用 / 投稿系と同じ4トークン）
+      X_API_KEY: ${{ secrets.X_API_KEY }}
+      X_API_SECRET: ${{ secrets.X_API_SECRET }}
+      X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+      X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -27,15 +30,18 @@ jobs:
           python-version: "3.12"
 
       - name: Install dependencies
-        run: pip install requests
+        run: pip install requests tweepy
 
-      - name: Fetch tweets
+      - name: Fetch tweets (public metrics via twitterapi.io)
         run: python scripts/fetch_my_tweets.py
+
+      - name: Enrich with organic metrics (profile/link clicks via X API)
+        run: python scripts/fetch_organic_metrics.py
 
       - name: Commit updated history
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/tweet_history.json
-          git diff --staged --quiet || git commit -m "Update tweet history [skip ci]"
+          git diff --staged --quiet || git commit -m "Update tweet history + organic metrics [skip ci]"
           git push
