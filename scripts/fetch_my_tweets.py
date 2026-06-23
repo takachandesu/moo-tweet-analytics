@@ -1,22 +1,19 @@
 #!/usr/bin/env python3
 """
-fetch_my_tweets.py
+fetch_my_tweets.py  (v3 / timeline + 診断つき)
 
-@moo_stock の過去ツイートとエンゲージメント指標を twitterapi.io から取得し、
-data/tweet_history.json に蓄積（upsert）するスクリプト。
+@moo_stock の過去ツイートと指標を twitterapi.io の /twitter/user/last_tweets から
+取得し、data/tweet_history.json に upsert する。
 
-取得方式:
-- /twitter/user/last_tweets（ユーザーのタイムラインを created_at 降順で辿る）を使用。
-  検索(advanced_search)は Twitter 側で since:/until: が無効化され古い分を遡れないため、
-  タイムライン走査に切り替えている。1ページ20件、cursor でページング。
-- 新しい順に取得し、FETCH_WINDOW_DAYS より古いツイートに達したら停止。
-- 既存ツイートは指標を「更新」する（いいね/RT等は投稿後しばらく伸びるため）。
-- リプライ・リツイートは除外し、オリジナル投稿（ニュース投稿・ランキング等）を対象。
+v3 の変更点:
+- レスポンス構造の揺れ（tweets が直下 or data.tweets の下 等）に対応。
+- 1ページ目で HTTPステータス・トップレベルのキー・件数をログ出力（0件時は本文を一部表示）。
+- 起動時にバージョン名を表示（どのスクリプトが動いたか一目で分かるように）。
 
-必要な環境変数:
-  TWITTERAPI_IO_KEY  twitterapi.io のダッシュボードで発行した API キー
-  X_USERNAME         自分の X ユーザー名（@ なし）。既定 moo_stock
-  FETCH_WINDOW_DAYS  遡及日数（既定 30）
+環境変数:
+  TWITTERAPI_IO_KEY  必須。twitterapi.io のAPIキー
+  X_USERNAME         既定 moo_stock（@なし）
+  FETCH_WINDOW_DAYS  既定 30
 """
 
 import os
@@ -30,8 +27,8 @@ import requests
 BASE = "https://api.twitterapi.io"
 TIMELINE = f"{BASE}/twitter/user/last_tweets"
 OUT_PATH = os.environ.get("OUT_PATH", "data/tweet_history.json")
-COST_PER_TWEET = 0.00015          # USD, 参考表示用
-MAX_PAGES = 300                   # 安全弁（1ページ20件 → 最大6000件相当）
+COST_PER_TWEET = 0.00015
+MAX_PAGES = 300
 
 
 def env(name, default=None, required=False):
@@ -42,7 +39,6 @@ def env(name, default=None, required=False):
 
 
 def pick(d, *keys, default=0):
-    """camelCase / snake_case / public_metrics のどれで返ってきても拾えるように。"""
     for k in keys:
         if k in d and d[k] is not None:
             return d[k]
@@ -54,15 +50,37 @@ def pick(d, *keys, default=0):
 
 
 def parse_created(s):
-    """createdAt 例: 'Fri Jun 19 23:59:50 +0000 2026' を aware datetime に。"""
+    """createdAt 例 'Fri Jun 19 23:59:50 +0000 2026'。ISO形式にも一応対応。"""
+    if not s:
+        return None
     try:
         return datetime.strptime(s, "%a %b %d %H:%M:%S %z %Y")
+    except Exception:
+        pass
+    try:
+        return datetime.fromisoformat(s.replace("Z", "+00:00"))
     except Exception:
         return None
 
 
+def extract(body):
+    """レスポンスから (tweets, has_next, next_cursor) を構造の違いを吸収して取り出す。"""
+    if isinstance(body.get("tweets"), list):
+        return body["tweets"], body.get("has_next_page"), body.get("next_cursor")
+    data = body.get("data")
+    if isinstance(data, dict):
+        tweets = data.get("tweets")
+        if not isinstance(tweets, list):
+            tweets = data.get("tweet_list") if isinstance(data.get("tweet_list"), list) else []
+        hn = body.get("has_next_page", data.get("has_next_page"))
+        nc = body.get("next_cursor", data.get("next_cursor"))
+        return tweets, hn, nc
+    if isinstance(data, list):
+        return data, body.get("has_next_page"), body.get("next_cursor")
+    return [], False, None
+
+
 def fetch_timeline(api_key, username, cutoff):
-    """タイムラインを新しい順に辿り、cutoff より新しいツイートを集めて返す。"""
     headers = {"X-API-Key": api_key}
     params = {"userName": username}
     collected = []
@@ -71,6 +89,8 @@ def fetch_timeline(api_key, username, cutoff):
     for page in range(MAX_PAGES):
         if cursor:
             params["cursor"] = cursor
+
+        r = None
         for attempt in range(3):
             try:
                 r = requests.get(TIMELINE, headers=headers, params=params, timeout=30)
@@ -80,26 +100,39 @@ def fetch_timeline(api_key, username, cutoff):
                 wait = 2 ** attempt
                 print(f"  [WARN] リクエスト失敗 ({e}); {wait}s 後にリトライ")
                 time.sleep(wait)
-        else:
+        if r is None:
             print("  [ERROR] リトライ上限。取得を中断。")
             break
 
-        body = r.json()
-        tweets = body.get("tweets", [])
-        if not tweets:                       # 空ページ＝終端（has_next_pageの偽陽性対策）
+        try:
+            body = r.json()
+        except Exception:
+            print(f"  [ERROR] JSONとして読めない応答: {r.text[:300]}")
+            break
+
+        tweets, has_next, next_cursor = extract(body)
+
+        if page == 0:
+            print(f"  [DEBUG] HTTP {r.status_code} / トップレベルkeys={list(body.keys())} / "
+                  f"抽出ツイート数={len(tweets)}")
+            if not tweets:
+                print(f"  [DEBUG] 応答本文(先頭500字): {json.dumps(body, ensure_ascii=False)[:500]}")
+
+        if not tweets:
             break
         collected.extend(tweets)
 
-        oldest = parse_created(tweets[-1].get("createdAt", ""))
+        oldest = parse_created(tweets[-1].get("createdAt") or tweets[-1].get("created_at"))
         print(f"  page {page + 1}: +{len(tweets)} 件 (累計 {len(collected)})"
               + (f" / 最古 {oldest.date()}" if oldest else ""))
-        if oldest and oldest < cutoff:       # 期間外まで遡ったら終了
+
+        if oldest and oldest < cutoff:
             break
-        if not body.get("has_next_page"):
+        if not has_next:
             break
-        cursor = body.get("next_cursor")
-        if not cursor:
+        if not next_cursor:
             break
+        cursor = next_cursor
         time.sleep(0.4)
 
     return collected
@@ -116,7 +149,7 @@ def normalize(t):
         "replies": pick(t, "replyCount", "reply_count"),
         "quotes": pick(t, "quoteCount", "quote_count"),
         "bookmarks": pick(t, "bookmarkCount", "bookmark_count"),
-        "views": pick(t, "viewCount", "impression_count"),  # impressions
+        "views": pick(t, "viewCount", "impression_count"),
     }
 
 
@@ -128,6 +161,7 @@ def load_history(path):
 
 
 def main():
+    print("[INFO] fetch_my_tweets v3 (timeline + diagnostics) を実行します")
     api_key = env("TWITTERAPI_IO_KEY", required=True)
     username = env("X_USERNAME", "moo_stock").lstrip("@")
     window_days = int(env("FETCH_WINDOW_DAYS", "30"))
@@ -152,7 +186,7 @@ def main():
         if not tid or tid == "None" or rec["is_reply"]:
             continue
         dt = parse_created(rec["created_at"])
-        if dt and dt < cutoff:               # 期間外は保存しない
+        if dt and dt < cutoff:
             continue
         kept += 1
         if tid in store:
