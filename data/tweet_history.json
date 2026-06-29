@@ -1,6 +1,6 @@
 {
   "username": "moo_stock",
-  "last_run": "2026-06-23T00:46:40.937923+00:00",
+  "last_run": "2026-06-29T05:11:34.982552+00:00",
   "tweets": {
     "2068121611463458982": {
       "id": "2068121611463458982",
@@ -15,10 +15,10 @@
       "views": 135,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 137,
+      "organic_impressions": 138,
       "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2067951748258353465": {
       "id": "2067951748258353465",
@@ -33,10 +33,10 @@
       "views": 130,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 131,
+      "organic_impressions": 151,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2067941524894093423": {
       "id": "2067941524894093423",
@@ -51,10 +51,10 @@
       "views": 90,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 91,
+      "organic_impressions": 92,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2067926216955330683": {
       "id": "2067926216955330683",
@@ -69,10 +69,10 @@
       "views": 503,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 504,
+      "organic_impressions": 573,
       "link_clicks": 0,
       "profile_clicks": 1,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2067926153785196571": {
       "id": "2067926153785196571",
@@ -87,10 +87,10 @@
       "views": 125,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 126,
+      "organic_impressions": 130,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2067895285037031880": {
       "id": "2067895285037031880",
@@ -105,10 +105,10 @@
       "views": 479,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 486,
+      "organic_impressions": 490,
       "link_clicks": 1,
       "profile_clicks": 1,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2067874600009253060": {
       "id": "2067874600009253060",
@@ -123,10 +123,10 @@
       "views": 36,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 37,
+      "organic_impressions": 41,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2067813289166327842": {
       "id": "2067813289166327842",
@@ -141,10 +141,10 @@
       "views": 263,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 264,
+      "organic_impressions": 265,
       "link_clicks": 1,
       "profile_clicks": 2,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2067793613183168528": {
       "id": "2067793613183168528",
@@ -162,7 +162,7 @@
       "organic_impressions": 65,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2067787325325652340": {
       "id": "2067787325325652340",
@@ -177,10 +177,10 @@
       "views": 295,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 296,
+      "organic_impressions": 300,
       "link_clicks": 1,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2067764339075932587": {
       "id": "2067764339075932587",
@@ -198,7 +198,7 @@
       "organic_impressions": 165,
       "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2067748701242556601": {
       "id": "2067748701242556601",
@@ -216,7 +216,7 @@
       "organic_impressions": 49,
       "link_clicks": null,
       "profile_clicks": 1,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2067719657197379782": {
       "id": "2067719657197379782",
@@ -234,7 +234,7 @@
       "organic_impressions": 75,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2067719656375259445": {
       "id": "2067719656375259445",
@@ -252,7 +252,7 @@
       "organic_impressions": 39,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2067644744667103583": {
       "id": "2067644744667103583",
@@ -267,10 +267,10 @@
       "views": 199,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 200,
+      "organic_impressions": 208,
       "link_clicks": null,
       "profile_clicks": 2,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2067561409920287174": {
       "id": "2067561409920287174",
@@ -285,10 +285,10 @@
       "views": 685,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 687,
+      "organic_impressions": 711,
       "link_clicks": 3,
       "profile_clicks": 2,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2067561347907260778": {
       "id": "2067561347907260778",
@@ -303,10 +303,10 @@
       "views": 552,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 554,
+      "organic_impressions": 566,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2067546217400123639": {
       "id": "2067546217400123639",
@@ -324,7 +324,7 @@
       "organic_impressions": 49,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2067509976021512399": {
       "id": "2067509976021512399",
@@ -342,7 +342,7 @@
       "organic_impressions": 387,
       "link_clicks": 3,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2067476440858386537": {
       "id": "2067476440858386537",
@@ -360,7 +360,7 @@
       "organic_impressions": 72,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2067439462401839490": {
       "id": "2067439462401839490",
@@ -378,7 +378,7 @@
       "organic_impressions": 263,
       "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2067421764171235838": {
       "id": "2067421764171235838",
@@ -393,10 +393,10 @@
       "views": 506,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 508,
+      "organic_impressions": 514,
       "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2067400705950749025": {
       "id": "2067400705950749025",
@@ -414,7 +414,7 @@
       "organic_impressions": 38,
       "link_clicks": null,
       "profile_clicks": 1,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2067398683864523023": {
       "id": "2067398683864523023",
@@ -432,7 +432,7 @@
       "organic_impressions": 67,
       "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2067381316744552905": {
       "id": "2067381316744552905",
@@ -450,7 +450,7 @@
       "organic_impressions": 32,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2067376047121977788": {
       "id": "2067376047121977788",
@@ -468,7 +468,7 @@
       "organic_impressions": 38,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2067358867470913753": {
       "id": "2067358867470913753",
@@ -486,7 +486,7 @@
       "organic_impressions": 37,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2067229582219198716": {
       "id": "2067229582219198716",
@@ -504,7 +504,7 @@
       "organic_impressions": 51,
       "link_clicks": null,
       "profile_clicks": 1,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2067227908343480339": {
       "id": "2067227908343480339",
@@ -519,10 +519,10 @@
       "views": 159,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 160,
+      "organic_impressions": 182,
       "link_clicks": null,
       "profile_clicks": 2,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2067206047211868630": {
       "id": "2067206047211868630",
@@ -537,10 +537,10 @@
       "views": 673,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 673,
+      "organic_impressions": 686,
       "link_clicks": 3,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2067205975992410586": {
       "id": "2067205975992410586",
@@ -558,7 +558,7 @@
       "organic_impressions": 149,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2067170641153790152": {
       "id": "2067170641153790152",
@@ -576,7 +576,7 @@
       "organic_impressions": 15,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2067161317685842110": {
       "id": "2067161317685842110",
@@ -594,7 +594,7 @@
       "organic_impressions": 177,
       "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2067090720218055036": {
       "id": "2067090720218055036",
@@ -612,7 +612,7 @@
       "organic_impressions": 28,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2067078331795910681": {
       "id": "2067078331795910681",
@@ -630,7 +630,7 @@
       "organic_impressions": 81,
       "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2067059716497559706": {
       "id": "2067059716497559706",
@@ -642,13 +642,13 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 248,
+      "views": 253,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
-      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 249,
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 254,
       "link_clicks": 4,
       "profile_clicks": 1,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2067037014524858726": {
       "id": "2067037014524858726",
@@ -663,10 +663,10 @@
       "views": 163,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 166,
+      "organic_impressions": 167,
       "link_clicks": 0,
       "profile_clicks": 1,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2067033787612221831": {
       "id": "2067033787612221831",
@@ -684,7 +684,7 @@
       "organic_impressions": 25,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2067011796834116093": {
       "id": "2067011796834116093",
@@ -702,7 +702,7 @@
       "organic_impressions": 15,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2066875069133918398": {
       "id": "2066875069133918398",
@@ -717,10 +717,10 @@
       "views": 79,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 80,
+      "organic_impressions": 82,
       "link_clicks": null,
       "profile_clicks": 1,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2066848639234744519": {
       "id": "2066848639234744519",
@@ -735,10 +735,10 @@
       "views": 644,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 644,
+      "organic_impressions": 649,
       "link_clicks": 4,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2066848636970164544": {
       "id": "2066848636970164544",
@@ -756,7 +756,7 @@
       "organic_impressions": 31,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2066848584260080068": {
       "id": "2066848584260080068",
@@ -771,10 +771,10 @@
       "views": 311,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 313,
+      "organic_impressions": 316,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2066804247002227072": {
       "id": "2066804247002227072",
@@ -789,10 +789,10 @@
       "views": 179,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 179,
+      "organic_impressions": 180,
       "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2066716689878618582": {
       "id": "2066716689878618582",
@@ -810,7 +810,7 @@
       "organic_impressions": 201,
       "link_clicks": 0,
       "profile_clicks": 2,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2066698808302420110": {
       "id": "2066698808302420110",
@@ -828,7 +828,7 @@
       "organic_impressions": 182,
       "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2066677911143506350": {
       "id": "2066677911143506350",
@@ -846,7 +846,7 @@
       "organic_impressions": 107,
       "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2066538949275951206": {
       "id": "2066538949275951206",
@@ -858,13 +858,13 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 141,
+      "views": 161,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
-      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 142,
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 162,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2066504666574385461": {
       "id": "2066504666574385461",
@@ -882,7 +882,7 @@
       "organic_impressions": 565,
       "link_clicks": null,
       "profile_clicks": 1,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2066503250518368567": {
       "id": "2066503250518368567",
@@ -900,7 +900,7 @@
       "organic_impressions": 310,
       "link_clicks": 1,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2066503168389710292": {
       "id": "2066503168389710292",
@@ -918,7 +918,7 @@
       "organic_impressions": 95,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2066466320892485836": {
       "id": "2066466320892485836",
@@ -936,7 +936,7 @@
       "organic_impressions": 45,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2066444723837906957": {
       "id": "2066444723837906957",
@@ -954,7 +954,7 @@
       "organic_impressions": 70,
       "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2066368763872575672": {
       "id": "2066368763872575672",
@@ -972,7 +972,7 @@
       "organic_impressions": 13,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2066353982369329515": {
       "id": "2066353982369329515",
@@ -990,7 +990,7 @@
       "organic_impressions": 106,
       "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2068814485159026953": {
       "id": "2068814485159026953",
@@ -1005,10 +1005,10 @@
       "views": 38,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 38,
+      "organic_impressions": 40,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2068686028928643121": {
       "id": "2068686028928643121",
@@ -1023,10 +1023,10 @@
       "views": 43,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 43,
+      "organic_impressions": 44,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2068657612875600188": {
       "id": "2068657612875600188",
@@ -1041,10 +1041,10 @@
       "views": 126,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 126,
+      "organic_impressions": 127,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2068611775768215970": {
       "id": "2068611775768215970",
@@ -1059,10 +1059,10 @@
       "views": 157,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 157,
+      "organic_impressions": 159,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2068541086671274035": {
       "id": "2068541086671274035",
@@ -1077,10 +1077,10 @@
       "views": 223,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 223,
+      "organic_impressions": 224,
       "link_clicks": null,
       "profile_clicks": 1,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2068456186744328583": {
       "id": "2068456186744328583",
@@ -1095,10 +1095,10 @@
       "views": 28,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 28,
+      "organic_impressions": 30,
       "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2068306704236736928": {
       "id": "2068306704236736928",
@@ -1113,10 +1113,10 @@
       "views": 37,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 39,
+      "organic_impressions": 40,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2068275574703788415": {
       "id": "2068275574703788415",
@@ -1131,10 +1131,10 @@
       "views": 150,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 151,
+      "organic_impressions": 152,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2068227577680892141": {
       "id": "2068227577680892141",
@@ -1149,10 +1149,10 @@
       "views": 157,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 158,
+      "organic_impressions": 160,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2068166588134494641": {
       "id": "2068166588134494641",
@@ -1167,10 +1167,10 @@
       "views": 157,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 158,
+      "organic_impressions": 159,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2068126327471825153": {
       "id": "2068126327471825153",
@@ -1185,10 +1185,10 @@
       "views": 231,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 232,
+      "organic_impressions": 247,
       "link_clicks": 2,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2069208820635803836": {
       "id": "2069208820635803836",
@@ -1200,13 +1200,13 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 45,
+      "views": 99,
       "first_seen": "2026-06-23T00:05:43.706733+00:00",
-      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 44,
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 99,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2069194117033181395": {
       "id": "2069194117033181395",
@@ -1218,13 +1218,13 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 7,
+      "views": 13,
       "first_seen": "2026-06-23T00:05:43.706733+00:00",
-      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 7,
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 13,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2069192774147334447": {
       "id": "2069192774147334447",
@@ -1236,13 +1236,13 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 44,
+      "views": 160,
       "first_seen": "2026-06-23T00:05:43.706733+00:00",
-      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 44,
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 165,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2069191587754848664": {
       "id": "2069191587754848664",
@@ -1254,13 +1254,13 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 48,
+      "views": 104,
       "first_seen": "2026-06-23T00:05:43.706733+00:00",
-      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 47,
-      "link_clicks": 1,
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 105,
+      "link_clicks": 3,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2069093355519406429": {
       "id": "2069093355519406429",
@@ -1272,13 +1272,13 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 735,
+      "views": 748,
       "first_seen": "2026-06-23T00:05:43.706733+00:00",
-      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 740,
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 755,
       "link_clicks": null,
       "profile_clicks": 1,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2069089058043863073": {
       "id": "2069089058043863073",
@@ -1290,13 +1290,13 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 116,
+      "views": 151,
       "first_seen": "2026-06-23T00:05:43.706733+00:00",
-      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 116,
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 151,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2069086028082872640": {
       "id": "2069086028082872640",
@@ -1308,13 +1308,13 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 295,
+      "views": 311,
       "first_seen": "2026-06-23T00:05:43.706733+00:00",
-      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 295,
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 311,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2069035766513049975": {
       "id": "2069035766513049975",
@@ -1326,13 +1326,13 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 517,
+      "views": 665,
       "first_seen": "2026-06-23T00:05:43.706733+00:00",
-      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 518,
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 666,
       "link_clicks": 1,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2069035703862989151": {
       "id": "2069035703862989151",
@@ -1344,13 +1344,13 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 475,
+      "views": 494,
       "first_seen": "2026-06-23T00:05:43.706733+00:00",
-      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 476,
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 496,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2068991736517665028": {
       "id": "2068991736517665028",
@@ -1360,15 +1360,15 @@
       "likes": 0,
       "retweets": 0,
       "replies": 0,
-      "quotes": 0,
+      "quotes": 1,
       "bookmarks": 0,
-      "views": 1063,
+      "views": 1078,
       "first_seen": "2026-06-23T00:05:43.706733+00:00",
-      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 1069,
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 1086,
       "link_clicks": null,
       "profile_clicks": 1,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2068981687254397440": {
       "id": "2068981687254397440",
@@ -1380,13 +1380,13 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 504,
+      "views": 508,
       "first_seen": "2026-06-23T00:05:43.706733+00:00",
-      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 507,
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 511,
       "link_clicks": 2,
       "profile_clicks": 1,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2068960326180131189": {
       "id": "2068960326180131189",
@@ -1398,13 +1398,13 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 95,
+      "views": 97,
       "first_seen": "2026-06-23T00:05:43.706733+00:00",
-      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 97,
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 99,
       "link_clicks": null,
       "profile_clicks": 3,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2068891120436699259": {
       "id": "2068891120436699259",
@@ -1416,13 +1416,13 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 289,
+      "views": 290,
       "first_seen": "2026-06-23T00:05:43.706733+00:00",
-      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 289,
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 290,
       "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2068877029940896014": {
       "id": "2068877029940896014",
@@ -1434,13 +1434,13 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 61,
+      "views": 64,
       "first_seen": "2026-06-23T00:05:43.706733+00:00",
-      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 61,
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 64,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2069213756505395352": {
       "id": "2069213756505395352",
@@ -1452,13 +1452,13 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 202,
+      "views": 492,
       "first_seen": "2026-06-23T00:46:40.937923+00:00",
-      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 196,
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 492,
       "link_clicks": null,
-      "profile_clicks": 0,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "profile_clicks": 1,
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2069212584658534691": {
       "id": "2069212584658534691",
@@ -1470,13 +1470,13 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 7,
+      "views": 16,
       "first_seen": "2026-06-23T00:46:40.937923+00:00",
-      "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 7,
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 16,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     },
     "2068905057748431299": {
       "id": "2068905057748431299",
@@ -1491,10 +1491,1126 @@
       "views": 64,
       "first_seen": "2026-06-23T00:46:40.937923+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 64,
+      "organic_impressions": 66,
       "link_clicks": 1,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-23T00:46:49.152702+00:00"
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+    },
+    "2071407453212971279": {
+      "id": "2071407453212971279",
+      "created_at": "Mon Jun 29 01:36:36 +0000 2026",
+      "text": "🔴速報\n香港のハンセン・テック指数は取引で2%以上上昇した。\n\n詳細はプロフィール固定の「News Headline Monitor」へ",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 20,
+      "first_seen": "2026-06-29T05:11:34.982552+00:00",
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 20,
+      "link_clicks": null,
+      "profile_clicks": 1,
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+    },
+    "2071370382024864128": {
+      "id": "2071370382024864128",
+      "created_at": "Sun Jun 28 23:09:17 +0000 2026",
+      "text": "🔴速報\nグローバル市場動向\n\n詳細はプロフィール固定の「News Headline Monitor」へ",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 11,
+      "first_seen": "2026-06-29T05:11:34.982552+00:00",
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 11,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+    },
+    "2071353190944018732": {
+      "id": "2071353190944018732",
+      "created_at": "Sun Jun 28 22:00:59 +0000 2026",
+      "text": "🔴速報\n英国海軍、フリゲート艦計画を放棄しドローン戦争へ転換；政府がドローン配備用の6隻のハイブリッド戦闘艦を発注、追加資金1000億ポンド\n\n詳細はプロフィール固定の「News Headline Monitor」へ",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 19,
+      "first_seen": "2026-06-29T05:11:34.982552+00:00",
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 19,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+    },
+    "2071224505351962864": {
+      "id": "2071224505351962864",
+      "created_at": "Sun Jun 28 13:29:38 +0000 2026",
+      "text": "🔴速報\n国連米国大使:イランがトランプが海運と米国の基地への攻撃を傍観すると考えているなら誤算だ\n\n詳細はプロフィール固定の「News Headline Monitor」へ",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 180,
+      "first_seen": "2026-06-29T05:11:34.982552+00:00",
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 180,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+    },
+    "2071198454991438301": {
+      "id": "2071198454991438301",
+      "created_at": "Sun Jun 28 11:46:07 +0000 2026",
+      "text": "🔴速報\nサウジアラムコのヘリコプター墜落の原因は不明、調査継続中－国営通信社\n\n詳細はプロフィール固定の「News Headline Monitor」へ",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 29,
+      "first_seen": "2026-06-29T05:11:34.982552+00:00",
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 30,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+    },
+    "2071167081996075256": {
+      "id": "2071167081996075256",
+      "created_at": "Sun Jun 28 09:41:27 +0000 2026",
+      "text": "🔴速報\nイラク治安部隊がイランの親イスラエル勢力ヒズボラの国会議員フセイン・モアネスの自宅を捜索\n\n詳細はプロフィール固定の「News Headline Monitor」へ",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 158,
+      "first_seen": "2026-06-29T05:11:34.982552+00:00",
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 159,
+      "link_clicks": null,
+      "profile_clicks": 1,
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+    },
+    "2071115187524960414": {
+      "id": "2071115187524960414",
+      "created_at": "Sun Jun 28 06:15:14 +0000 2026",
+      "text": "🔴速報\nバーレーン防衛軍:イランの不当な航空侵略の多数を破壊した\n\n詳細はプロフィール固定の「News Headline Monitor」へ",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 140,
+      "first_seen": "2026-06-29T05:11:34.982552+00:00",
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 140,
+      "link_clicks": null,
+      "profile_clicks": 3,
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+    },
+    "2070810411587321903": {
+      "id": "2070810411587321903",
+      "created_at": "Sat Jun 27 10:04:10 +0000 2026",
+      "text": "🔴速報\nレバノン南部のナバティエ・アル・ファウカ町郊外へのイスラエルのドローン攻撃\n\n詳細はプロフィール固定の「News Headline Monitor」へ",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 25,
+      "first_seen": "2026-06-29T05:11:34.982552+00:00",
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 25,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+    },
+    "2070775971834433737": {
+      "id": "2070775971834433737",
+      "created_at": "Sat Jun 27 07:47:19 +0000 2026",
+      "text": "🔴速報\nウクライナのブダノフは、ロシアによるウクライナ国内でのエージェント採用がほぼ全て経済的動機によるもので、イデオロギーではないと述べた――対象者を「300ドルの…\n\n詳細はプロフィール固定の「News Headline Monitor」へ",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 31,
+      "first_seen": "2026-06-29T05:11:34.982552+00:00",
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 31,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+    },
+    "2070727265323757702": {
+      "id": "2070727265323757702",
+      "created_at": "Sat Jun 27 04:33:46 +0000 2026",
+      "text": "🔴速報\n日本の760億ドルの米国債売却、米国債市場からの外国人投資家の流出が鮮明に\n\n詳細はプロフィール固定の「News Headline Monitor」へ",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 41,
+      "first_seen": "2026-06-29T05:11:34.982552+00:00",
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 43,
+      "link_clicks": null,
+      "profile_clicks": 2,
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+    },
+    "2070663256671465941": {
+      "id": "2070663256671465941",
+      "created_at": "Sat Jun 27 00:19:26 +0000 2026",
+      "text": "今朝のADR動向 (6/27)\n\n上がってる:\n住友電工 +320.6%\n住友商事 +305.3%\n花王 +104.3%\n日本郵政 +11.2%\n\n下がってる:\nアイシン -7.3%\n双日 -6.7%\nNEC -5.6%\nマツダ -4.8%\n\nニュース詳細はプロフィールのリンクと固定ポストに。",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 208,
+      "first_seen": "2026-06-29T05:11:34.982552+00:00",
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 208,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+    },
+    "2070659286036881588": {
+      "id": "2070659286036881588",
+      "created_at": "Sat Jun 27 00:03:39 +0000 2026",
+      "text": "🔴速報\n米国、初のMOU後攻撃後にイランに厳しい姿勢を示唆\n\n詳細はプロフィール固定の「News Headline Monitor」へ",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 38,
+      "first_seen": "2026-06-29T05:11:34.982552+00:00",
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 38,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+    },
+    "2070656856687612320": {
+      "id": "2070656856687612320",
+      "created_at": "Fri Jun 26 23:54:00 +0000 2026",
+      "text": "📊 米国市場 本日の値動き (6/26)\nS&amp;P500 +0.0% / NASDAQ -0.2%\n\n📈 ベスト\n1. LCID +15.6%\n2. MRNA +12.6%\n3. FDS +11.0%\n4. NOW +9.9%\n\n📉 ワースト\n1. ON -23.7%\n2. WDC -13.2%\n3. STX -12.2%\n4. MPWR -8.7%\n\n#米国株 #SP500\nニュース詳細はプロフィールのリンクと固定ポストに。",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 154,
+      "first_seen": "2026-06-29T05:11:34.982552+00:00",
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 155,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+    },
+    "2070614676392579423": {
+      "id": "2070614676392579423",
+      "created_at": "Fri Jun 26 21:06:23 +0000 2026",
+      "text": "🔴速報\nイラン大統領Masoud Pezeshkianはイランが最近数日間で石油輸送を再開し、1バレルも輸送できなかった後に1600万バレルの石油を輸出したと述べた\n\n詳細はプロフィール固定の「News Headline Monitor」へ",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 35,
+      "first_seen": "2026-06-29T05:11:34.982552+00:00",
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 35,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+    },
+    "2070472643396923587": {
+      "id": "2070472643396923587",
+      "created_at": "Fri Jun 26 11:42:00 +0000 2026",
+      "text": "【著名投資家の大量保有】 20:42時点\n全市場対象(中小型・グロース250含む)\n★いちごアセットマネジメン→株式会社ジャパンディ(6740) 88.99%\n★シルチェスター・インター→住友大阪セメント株式(5232) 17.19%\n\nニュース詳細はプロフィールのリンクと固定ポストに。\n#大量保有 #日本株",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 91,
+      "first_seen": "2026-06-29T05:11:34.982552+00:00",
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 91,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+    },
+    "2070452535970738646": {
+      "id": "2070452535970738646",
+      "created_at": "Fri Jun 26 10:22:06 +0000 2026",
+      "text": "🔴速報\nドイツ経済省報道官がVWに関するメディア報道についてのコメント回避を表明\n\n詳細はプロフィール固定の「News Headline Monitor」へ",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 18,
+      "first_seen": "2026-06-29T05:11:34.982552+00:00",
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 18,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+    },
+    "2070446560681300465": {
+      "id": "2070446560681300465",
+      "created_at": "Fri Jun 26 09:58:21 +0000 2026",
+      "text": "📊グロース250 6/26\n\n📈上昇TOP3\n1. 7352 TWOSTONE +15.0%\n2. 6030 アドベンチャー +7.8%\n3. 4583 カイオム・バイオ +4.5%\n\n📉下落TOP3\n1. 3133 海帆 -41.3%\n2. 4889 レナサイエンス -14.4%\n3. 3905 データセクション -14.0%\n\nニュース詳細はプロフィールのリンクと固定ポストに。",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 1377,
+      "first_seen": "2026-06-29T05:11:34.982552+00:00",
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 1382,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+    },
+    "2070446508093190564": {
+      "id": "2070446508093190564",
+      "created_at": "Fri Jun 26 09:58:09 +0000 2026",
+      "text": "グロース250銘柄概況】6月26日は値下がり161銘柄が値上がり70銘柄を優勢。ツートーンズ&amp;サンズ(+15.0%)、アドベンチャー(+7.8%)が強気買い。海帆の急落(-41.3%)が目立つほか、レナサイエンス(-14.4%)など弱気が継続。\n\n詳細はプロフィールのリンクから確認してください",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 820,
+      "first_seen": "2026-06-29T05:11:34.982552+00:00",
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 821,
+      "link_clicks": null,
+      "profile_clicks": 1,
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+    },
+    "2070400516551823472": {
+      "id": "2070400516551823472",
+      "created_at": "Fri Jun 26 06:55:23 +0000 2026",
+      "text": "🔴速報\n中国人民銀行、信用需要の弱さを受け、選別された銀行に6月の貸出増加を指示：関係筋\n\n詳細はプロフィール固定の「News Headline Monitor」へ",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 27,
+      "first_seen": "2026-06-29T05:11:34.982552+00:00",
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 27,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+    },
+    "2070340953123029257": {
+      "id": "2070340953123029257",
+      "created_at": "Fri Jun 26 02:58:42 +0000 2026",
+      "text": "🔴速報\n金価格が1%下落、1オンス3,985.10ドルで取引\n\n詳細はプロフィール固定の「News Headline Monitor」へ",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 31,
+      "first_seen": "2026-06-29T05:11:34.982552+00:00",
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 31,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+    },
+    "2070301527781118282": {
+      "id": "2070301527781118282",
+      "created_at": "Fri Jun 26 00:22:03 +0000 2026",
+      "text": "今朝のADR動向 (6/26)\n\n上がってる:\nニデック +8.0%\n花王 +5.3%\nシャープ +5.0%\nキオクシアHD +3.9%\n\n下がってる:\n双日 -5.8%\nシスメックス -5.8%\nリードリアル -5.3%\nANA -4.9%\n\nニュース詳細はプロフィールのリンクと固定ポストに。",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 578,
+      "first_seen": "2026-06-29T05:11:34.982552+00:00",
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 580,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+    },
+    "2070297001430765781": {
+      "id": "2070297001430765781",
+      "created_at": "Fri Jun 26 00:04:04 +0000 2026",
+      "text": "📊 米国市場 本日の値動き (6/25)\nS&amp;P500 +0.0% / NASDAQ -0.5%\n\n📈 ベスト\n1. TECH +20.1%\n2. MU +15.7%\n3. AMAT +13.4%\n4. GLW +10.8%\n\n📉 ワースト\n1. TEAM -8.4%\n2. AAPL -6.1%\n3. TJX -6.0%\n4. ROST -5.9%\n\n#米国株 #SP500\nニュース詳細はプロフィールのリンクと固定ポストに。",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 78,
+      "first_seen": "2026-06-29T05:11:34.982552+00:00",
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 78,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+    },
+    "2070293963580338334": {
+      "id": "2070293963580338334",
+      "created_at": "Thu Jun 25 23:51:59 +0000 2026",
+      "text": "🔴速報\n【訂正】トランプはイラン資金を使用して米国が間もなく小麦、大豆、トウモロコシを購入すると発言\n\n詳細はプロフィール固定の「News Headline Monitor」へ",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 72,
+      "first_seen": "2026-06-29T05:11:34.982552+00:00",
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 72,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+    },
+    "2070270718051229745": {
+      "id": "2070270718051229745",
+      "created_at": "Thu Jun 25 22:19:37 +0000 2026",
+      "text": "🔴速報\nスピーカー・ジョンソン、トランプとの会談後に住宅法案をホワイトハウスに送付へ－アクシオス報道\n\n詳細はプロフィール固定の「News Headline Monitor」へ",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 26,
+      "first_seen": "2026-06-29T05:11:34.982552+00:00",
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 26,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+    },
+    "2070108727273722292": {
+      "id": "2070108727273722292",
+      "created_at": "Thu Jun 25 11:35:55 +0000 2026",
+      "text": "【著名投資家の大量保有】 20:35時点\n全市場対象(中小型・グロース250含む)\n★株式会社ヴァレックス・パ→株式会社ＴＥＩＫＯＫ(6333) 18.42%\n★ひびき・パース・アドバイ→日本高純度化学株式会(4973) 11.19%\n\nニュース詳細はプロフィールのリンクと固定ポストに。\n#大量保有 #日本株",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 90,
+      "first_seen": "2026-06-29T05:11:34.982552+00:00",
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 92,
+      "link_clicks": null,
+      "profile_clicks": 1,
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+    },
+    "2070082422159323592": {
+      "id": "2070082422159323592",
+      "created_at": "Thu Jun 25 09:51:24 +0000 2026",
+      "text": "📊グロース250 6/25\n\n📈上昇TOP3\n1. 7352 TWOSTONE +18.8%\n2. 6613 QDレーザ +18.3%\n3. 3133 海帆 +14.2%\n\n📉下落TOP3\n1. 5592 くすりの窓口 -10.6%\n2. 7048 ベルトラ -7.4%\n3. 290A Synspect -5.3%\n\nニュース詳細はプロフィールのリンクと固定ポストに。",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 1758,
+      "first_seen": "2026-06-29T05:11:34.982552+00:00",
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 1764,
+      "link_clicks": null,
+      "profile_clicks": 2,
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+    },
+    "2070082351988625464": {
+      "id": "2070082351988625464",
+      "created_at": "Thu Jun 25 09:51:07 +0000 2026",
+      "text": "【グロース250】6/25は値上がり132・値下がり97銘柄で値上がり優勢。再生医療・レーザー関連が上昇し、TWOSTONE&amp;Sons(+18.8%)やQDレーザ(+18.3%)が買われる一方、くすりの窓口(-10.6%)やベルトラ(-7.4%)は下落。\n\n詳細はプロフィールのリンクから確認してください",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 732,
+      "first_seen": "2026-06-29T05:11:34.982552+00:00",
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 735,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+    },
+    "2070059740906799223": {
+      "id": "2070059740906799223",
+      "created_at": "Thu Jun 25 08:21:16 +0000 2026",
+      "text": "🔴速報\nEU、トランプのデッドライン直前に米国との貿易協定を承認。\n\n詳細はプロフィール固定の「News Headline Monitor」へ",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 22,
+      "first_seen": "2026-06-29T05:11:34.982552+00:00",
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 22,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+    },
+    "2070021922692239608": {
+      "id": "2070021922692239608",
+      "created_at": "Thu Jun 25 05:51:00 +0000 2026",
+      "text": "本命はUBSによる $MU の評価ですね。今回のメモリー相場を作ったトリガーがUBSが目標株価を535→1625ドルへ引き上げたので。\n\n日本株の半導体ストーリーも上記に引っ張られました\n\nUBSによる目標株価がでたら、すぐに皆さんにお知らせします",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 1,
+      "bookmarks": 0,
+      "views": 231,
+      "first_seen": "2026-06-29T05:11:34.982552+00:00",
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 231,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+    },
+    "2070014666634645960": {
+      "id": "2070014666634645960",
+      "created_at": "Thu Jun 25 05:22:10 +0000 2026",
+      "text": "日経平均が一段高\n\nMU決算でJPモルガンが目標株価を引き上げたことを受け、SKハイニクスが上昇幅が拡大し、日経平均も連れ高へ\n\n🔴速報 JPモルガンがマイクロンの目標株価を550ドルから1,540ドルに2倍超引き上げ  \n\n詳細はプロフィール固定の「News Headline Monitor」へ",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 1,
+      "bookmarks": 0,
+      "views": 586,
+      "first_seen": "2026-06-29T05:11:34.982552+00:00",
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 586,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+    },
+    "2070005142632513950": {
+      "id": "2070005142632513950",
+      "created_at": "Thu Jun 25 04:44:19 +0000 2026",
+      "text": "🔴速報\nJPモルガンがマイクロンの目標株価を550ドルから1,540ドルに2倍超引き上げ\n\n詳細はプロフィール固定の「News Headline Monitor」へ",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 1,
+      "bookmarks": 0,
+      "views": 594,
+      "first_seen": "2026-06-29T05:11:34.982552+00:00",
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 594,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+    },
+    "2069972578949816404": {
+      "id": "2069972578949816404",
+      "created_at": "Thu Jun 25 02:34:55 +0000 2026",
+      "text": "📊 日経225 寄与度ランキング (6/25)\n\n🟢 ベスト3(押し上げ)\n1. アドバンテ +¥888.0\n2. 東エレク +¥568.0\n3. ファストリ +¥229.6\n\n🔴 ワースト3(押し下げ)\n1. 三菱商事 -¥11.7\n2. 三井物産 -¥7.6\n3. 塩野義製薬 -¥7.2\n\n#日経平均 #日経225 #寄与度\nニュース詳細はプロフィールのリンクと固定ポストに。",
+      "is_reply": false,
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 286,
+      "first_seen": "2026-06-29T05:11:34.982552+00:00",
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 287,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+    },
+    "2069964209904095266": {
+      "id": "2069964209904095266",
+      "created_at": "Thu Jun 25 02:01:40 +0000 2026",
+      "text": "足元の相場\n\nキオクシアが伸び悩んでいるのは、MU決算でNANDへの言及はDRMA、HBMに比べて少ないから\n\n金が売られ続けているのは、東欧、中東勢が為替介入の原資で必要とするから\n\nビットコイン（BTC）が売られ続けているのは、マイニング業者がネオクラウド業者に転換し、保有BTCを売却しているから",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 518,
+      "first_seen": "2026-06-29T05:11:34.982552+00:00",
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 519,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+    },
+    "2069938823031603228": {
+      "id": "2069938823031603228",
+      "created_at": "Thu Jun 25 00:20:47 +0000 2026",
+      "text": "今朝のADR動向 (6/25)\n\n上がってる:\nレゾナックHD +11.8%\n住友電工 +4.9%\nローム +4.1%\n三菱自動車 +3.6%\n\n下がってる:\nシャープ -16.1%\nNEC -11.6%\nスクエニ -7.3%\n郵船 -5.3%\n\nニュース詳細はプロフィールのリンクと固定ポストに。",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 247,
+      "first_seen": "2026-06-29T05:11:34.982552+00:00",
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 248,
+      "link_clicks": null,
+      "profile_clicks": 3,
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+    },
+    "2069935577768583545": {
+      "id": "2069935577768583545",
+      "created_at": "Thu Jun 25 00:07:53 +0000 2026",
+      "text": "🔴速報\n日本の日経平均先物、初期取引で2.66%上昇\n\n詳細はプロフィール固定の「News Headline Monitor」へ",
+      "is_reply": false,
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 140,
+      "first_seen": "2026-06-29T05:11:34.982552+00:00",
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 141,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+    },
+    "2069933028483469489": {
+      "id": "2069933028483469489",
+      "created_at": "Wed Jun 24 23:57:46 +0000 2026",
+      "text": "📊 米国市場 本日の値動き (6/24)\nS&amp;P500 -0.1% / NASDAQ -0.4%\n\n📈 ベスト\n1. BLDR +11.3%\n2. MHK +9.6%\n3. W +9.4%\n4. RKT +9.4%\n\n📉 ワースト\n1. BX -5.9%\n2. LNC -5.1%\n3. PFG -5.0%\n4. ORCL -4.6%\n\n#米国株 #SP500\nニュース詳細はプロフィールのリンクと固定ポストに。",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 110,
+      "first_seen": "2026-06-29T05:11:34.982552+00:00",
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 110,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+    },
+    "2069915149348061687": {
+      "id": "2069915149348061687",
+      "created_at": "Wed Jun 24 22:46:43 +0000 2026",
+      "text": "🔴速報\nロッキード・マーティンが米国との契約を確保。向こう7年間でTHAAD防空ミサイルシステムの生産を4倍に拡大する契約額は最大350億ドル\n\n詳細はプロフィール固定の「News Headline Monitor」へ",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 26,
+      "first_seen": "2026-06-29T05:11:34.982552+00:00",
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 26,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+    },
+    "2069902383430406471": {
+      "id": "2069902383430406471",
+      "created_at": "Wed Jun 24 21:55:59 +0000 2026",
+      "text": "$MU 決算\n\n売上高：414.6億ドル（予想355.9億ドル）\nEPS：25.11ドル（予想20.60ドル）\n粗利益率：84.9%（予想81.9%）\n\n会社予想\n\n4Q売上高見通し：490〜510億ドル（予想432.4億ドル）\n4Q EPS見通し：30〜32ドル（予想25.31ドル）",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 133,
+      "first_seen": "2026-06-29T05:11:34.982552+00:00",
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 133,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+    },
+    "2069900628718232021": {
+      "id": "2069900628718232021",
+      "created_at": "Wed Jun 24 21:49:01 +0000 2026",
+      "text": "$MU 決算コメント\n契約期間は基本的に5年で、暦年2026年から2030年末までをカバー。車載分野については、業界の特性を踏まえて通常3年だが、今回締結した契約は、この期間における当社のDRAM出荷量のおよそ20%、そしてNAND出荷量の約3分の1に相当する規模。\n\n顧客の構成は、4社の超大口顧客。",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 1,
+      "bookmarks": 0,
+      "views": 239,
+      "first_seen": "2026-06-29T05:11:34.982552+00:00",
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 239,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+    },
+    "2069899488668643562": {
+      "id": "2069899488668643562",
+      "created_at": "Wed Jun 24 21:44:29 +0000 2026",
+      "text": "$MU 決算コメント\n\nAIバブルではなく、1000億ドルの契約収益のうち長期契約は14/16の戦略的顧客契約があり、220億ドルの現金預託金で生産能力を確保。 「食料連鎖」または5層ケーキ - DC、グリッド、電力会社にとってポジティブ。\n\n株価は時間外で+12%急騰",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 1,
+      "bookmarks": 0,
+      "views": 180,
+      "first_seen": "2026-06-29T05:11:34.982552+00:00",
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 180,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+    },
+    "2069890806924599363": {
+      "id": "2069890806924599363",
+      "created_at": "Wed Jun 24 21:09:59 +0000 2026",
+      "text": "🔴速報\nトランプ、司法省石油調査について質問され、シェブロン、BP、エクソンモービルを指摘\n\n詳細はプロフィール固定の「News Headline Monitor」へ",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 37,
+      "first_seen": "2026-06-29T05:11:34.982552+00:00",
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 37,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+    },
+    "2069752491605139657": {
+      "id": "2069752491605139657",
+      "created_at": "Wed Jun 24 12:00:22 +0000 2026",
+      "text": "半期末、月末リバランス\n\n米株買い、アジア株がやや売り、日本株もやや売り。米債券はやや売り、欧州債はやや買い。通貨は米ドル買い。機関投資家ルールにより、6月末から5営業日前に徐々にでてくるフロー。通貨は特に6/30のロンドンFIX（6/30LDN時間の15時＝日本時間の7/1午前0時）前後に強く出ます",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 80,
+      "first_seen": "2026-06-29T05:11:34.982552+00:00",
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 80,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+    },
+    "2069747778146980347": {
+      "id": "2069747778146980347",
+      "created_at": "Wed Jun 24 11:41:39 +0000 2026",
+      "text": "【著名投資家の大量保有】 20:41時点\n全市場対象(中小型・グロース250含む)\n★株式会社ストラテジックキ→ＫＨネオケム株式会社(4189) 18.24%\n★Ｏａｓｉｓ　Ｍａｎａｇｅ→株式会社プラスアルフ(4071) 16.29%\n\nニュース詳細はプロフィールのリンクと固定ポストに。\n#大量保有 #日本株",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 93,
+      "first_seen": "2026-06-29T05:11:34.982552+00:00",
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 93,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+    },
+    "2069726042076442626": {
+      "id": "2069726042076442626",
+      "created_at": "Wed Jun 24 10:15:16 +0000 2026",
+      "text": "📊 日経225 寄与度ランキング (6/24)\n\n🟢 ベスト3(押し上げ)\n1. ソフトバンクG +¥67.2\n2. イビデン +¥26.7\n3. ソニーG +¥15.2\n\n🔴 ワースト3(押し下げ)\n1. 東エレク -¥306.0\n2. TDK -¥63.5\n3. アドバンテ -¥55.2\n\n#日経平均 #日経225 #寄与度\nニュース詳細はプロフィールのリンクと固定ポストに。",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 161,
+      "first_seen": "2026-06-29T05:11:34.982552+00:00",
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 162,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+    },
+    "2069721424097628227": {
+      "id": "2069721424097628227",
+      "created_at": "Wed Jun 24 09:56:55 +0000 2026",
+      "text": "📊グロース250 6/24\n\n📈上昇TOP3\n1. 141A トライアルホール +8.3%\n2. 5582 グリッド +5.4%\n3. 6521 オキサイド +5.4%\n\n📉下落TOP3\n1. 7048 ベルトラ -10.7%\n2. 1436 グリーンエナジー -9.3%\n3. 3692 FFRIセキュ -6.5%\n\nニュース詳細はプロフィールのリンクと固定ポストに。",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 246,
+      "first_seen": "2026-06-29T05:11:34.982552+00:00",
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 246,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+    },
+    "2069721360541053115": {
+      "id": "2069721360541053115",
+      "created_at": "Wed Jun 24 09:56:40 +0000 2026",
+      "text": "【グロース250】6/24は値下がり134銘柄が優勢。上昇ではトライアルHD+8.3%が買われ、下落ではベルトラ-10.7%、グリーンエナジー-9.3%とエネルギー関連が売却。#グロース250\n\n詳細はプロフィールのリンクから確認してください",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 73,
+      "first_seen": "2026-06-29T05:11:34.982552+00:00",
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 73,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+    },
+    "2069673549925687473": {
+      "id": "2069673549925687473",
+      "created_at": "Wed Jun 24 06:46:41 +0000 2026",
+      "text": "🔴速報\n日銀の植田は経済とインフレに対応した追加利上げの可能性を示唆しつつ、金融環境は引き続き緩和的との見方を示した。\n\n詳細はプロフィール固定の「News Headline Monitor」へ",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 85,
+      "first_seen": "2026-06-29T05:11:34.982552+00:00",
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 85,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+    },
+    "2069671502275072215": {
+      "id": "2069671502275072215",
+      "created_at": "Wed Jun 24 06:38:33 +0000 2026",
+      "text": "📊 日経225 寄与度ランキング (6/24)\n\n🟢 ベスト3(押し上げ)\n1. ソフトバンクG +¥64.0\n2. イビデン +¥32.3\n3. キオクシアHD +¥19.1\n\n🔴 ワースト3(押し下げ)\n1. 東エレク -¥246.0\n2. TDK -¥68.0\n3. ファストリ -¥56.0\n\n#日経平均 #日経225 #寄与度\nニュース詳細はプロフィールのリンクと固定ポストに。",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 202,
+      "first_seen": "2026-06-29T05:11:34.982552+00:00",
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 202,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+    },
+    "2069614916684652856": {
+      "id": "2069614916684652856",
+      "created_at": "Wed Jun 24 02:53:42 +0000 2026",
+      "text": "🔴速報\n台湾のASEが米国顧客のニーズに基づくアリゾナ州への投資計画を検討中と発表\n\n詳細はプロフィール固定の「News Headline Monitor」へ",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 67,
+      "first_seen": "2026-06-29T05:11:34.982552+00:00",
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 67,
+      "link_clicks": null,
+      "profile_clicks": 1,
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+    },
+    "2069609827324563610": {
+      "id": "2069609827324563610",
+      "created_at": "Wed Jun 24 02:33:28 +0000 2026",
+      "text": "📊 日経225 寄与度ランキング (6/24)\n\n🟢 ベスト3(押し上げ)\n1. イビデン +¥53.7\n2. キオクシアHD +¥29.9\n3. 中外製薬 +¥9.5\n\n🔴 ワースト3(押し下げ)\n1. 東エレク -¥212.0\n2. TDK -¥54.5\n3. 信越化学 -¥35.0\n\n#日経平均 #日経225 #寄与度\nニュース詳細はプロフィールのリンクと固定ポストに。",
+      "is_reply": false,
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 353,
+      "first_seen": "2026-06-29T05:11:34.982552+00:00",
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 353,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+    },
+    "2069573631215128668": {
+      "id": "2069573631215128668",
+      "created_at": "Wed Jun 24 00:09:39 +0000 2026",
+      "text": "今朝のADR動向 (6/24)\n\n上がってる:\n三井金属鉱 +21.0%\nレゾナックHD +17.9%\n安川電機 +13.2%\nローム +10.6%\n\n下がってる:\nニデック -14.0%\nANA -5.2%\n日本郵政 -4.9%\n関電 -4.8%\n\nニュース詳細はプロフィールのリンクと固定ポストに。",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 320,
+      "first_seen": "2026-06-29T05:11:34.982552+00:00",
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 320,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+    },
+    "2069569777006236028": {
+      "id": "2069569777006236028",
+      "created_at": "Tue Jun 23 23:54:20 +0000 2026",
+      "text": "🔴速報\n日経先物は寄付き前取引で0.5%下落、日本株の弱気な寄付きを示唆。\n\n詳細はプロフィール固定の「News Headline Monitor」へ",
+      "is_reply": false,
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 137,
+      "first_seen": "2026-06-29T05:11:34.982552+00:00",
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 138,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+    },
+    "2069568115655250000": {
+      "id": "2069568115655250000",
+      "created_at": "Tue Jun 23 23:47:44 +0000 2026",
+      "text": "📊 米国市場 本日の値動き (6/23)\nS&amp;P500 -1.4% / NASDAQ -2.2%\n\n📈 ベスト\n1. AXON +5.6%\n2. CDW +5.3%\n3. GEHC +5.1%\n4. IBM +5.0%\n\n📉 ワースト\n1. MU -13.2%\n2. ON -11.0%\n3. ENPH -9.9%\n4. MRVL -9.4%\n\n#米国株 #SP500\nニュース詳細はプロフィールのリンクと固定ポストに。",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 110,
+      "first_seen": "2026-06-29T05:11:34.982552+00:00",
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 110,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+    },
+    "2069552587335225427": {
+      "id": "2069552587335225427",
+      "created_at": "Tue Jun 23 22:46:01 +0000 2026",
+      "text": "🔴速報\n米国でフェイスブックの障害報告が急増、ダウンディテクターによると2万人以上のユーザーが問題を報告。\n\n詳細はプロフィール固定の「News Headline Monitor」へ",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 37,
+      "first_seen": "2026-06-29T05:11:34.982552+00:00",
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 37,
+      "link_clicks": null,
+      "profile_clicks": 1,
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+    },
+    "2069529541844816061": {
+      "id": "2069529541844816061",
+      "created_at": "Tue Jun 23 21:14:27 +0000 2026",
+      "text": "🔴速報\nスペースXが初の250億ドル規模の社債発行を実施。今年最大級の企業債発行の一つで、5つのトランシェで構成された取引。\n\n詳細はプロフィール固定の「News Headline Monitor」へ",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 108,
+      "first_seen": "2026-06-29T05:11:34.982552+00:00",
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 109,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+    },
+    "2069389047785541937": {
+      "id": "2069389047785541937",
+      "created_at": "Tue Jun 23 11:56:11 +0000 2026",
+      "text": "【著名投資家の大量保有】 20:56時点\n全市場対象(中小型・グロース250含む)\n★Ｏａｓｉｓ　Ｍａｎａｇｅ→株式会社ＫＡＤＯＫＡ(9468) 15.25%\n★ひびき・パース・アドバイ→日本高純度化学株式会(4973) 12.48%\n\nニュース詳細はプロフィールのリンクと固定ポストに。\n#大量保有 #日本株",
+      "is_reply": false,
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 110,
+      "first_seen": "2026-06-29T05:11:34.982552+00:00",
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 110,
+      "link_clicks": null,
+      "profile_clicks": 1,
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+    },
+    "2069384728000749586": {
+      "id": "2069384728000749586",
+      "created_at": "Tue Jun 23 11:39:01 +0000 2026",
+      "text": "🔴速報\nイランのファルス通信社は軍事筋を引用し、ホルムズ海峡を通過できるのは1日当たり一定数の船舶のみで、この数量は日々変わると述べた\n\n詳細はプロフィール固定の「News Headline Monitor」へ",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 76,
+      "first_seen": "2026-06-29T05:11:34.982552+00:00",
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 76,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+    },
+    "2069362354513440948": {
+      "id": "2069362354513440948",
+      "created_at": "Tue Jun 23 10:10:06 +0000 2026",
+      "text": "📊グロース250 6/23\n\n📈上昇TOP3\n1. 7048 ベルトラ +15.2%\n2. 325A TENTIAL +5.5%\n3. 4175 coly +5.3%\n\n📉下落TOP3\n1. 278A Terra Dr -15.2%\n2. 4169 ENECHANG -13.2%\n3. 186A アストロ -12.9%\n\nニュース詳細はプロフィールのリンクと固定ポストに。",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 191,
+      "first_seen": "2026-06-29T05:11:34.982552+00:00",
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 193,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+    },
+    "2069362299761033446": {
+      "id": "2069362299761033446",
+      "created_at": "Tue Jun 23 10:09:53 +0000 2026",
+      "text": "【グロース250】6月23日は値下がり200銘柄、値上がり36銘柄と値下がり優勢。ベルトラ(+15.2%)が買われた一方、テラドローン(-15.2%)やアストロスケール(-12.9%)など宇宙関連・再エネ関連が売り込まれた。\n\n詳細はプロフィールのリンクから確認してください",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 470,
+      "first_seen": "2026-06-29T05:11:34.982552+00:00",
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 472,
+      "link_clicks": null,
+      "profile_clicks": 1,
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+    },
+    "2069336605043953970": {
+      "id": "2069336605043953970",
+      "created_at": "Tue Jun 23 08:27:47 +0000 2026",
+      "text": "🔴速報\nイラン外相がパキスタン高官と個別協議を開催へ、外相アラグチがイラン大統領訪問前にパキスタンに到着。\n\n詳細はプロフィール固定の「News Headline Monitor」へ",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 74,
+      "first_seen": "2026-06-29T05:11:34.982552+00:00",
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 74,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+    },
+    "2069279335173767178": {
+      "id": "2069279335173767178",
+      "created_at": "Tue Jun 23 04:40:13 +0000 2026",
+      "text": "🔴速報\n日銀の正常化は12月の利上げに向けて予定通り進行中—FT\n\n詳細はプロフィール固定の「News Headline Monitor」へ",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 30,
+      "first_seen": "2026-06-29T05:11:34.982552+00:00",
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 30,
+      "link_clicks": null,
+      "profile_clicks": 1,
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+    },
+    "2069275914459131989": {
+      "id": "2069275914459131989",
+      "created_at": "Tue Jun 23 04:26:37 +0000 2026",
+      "text": "キオクシアの株価下落が続いてますが、逆に聞くと今成長する産業はなんですか？！\nどの銘柄を自信をもって買えますか？！\n\n内需がAI産業よりも、伸びますか？\nどの産業が伸びますか？\n\n消去法で考えれば、キオクシアの下がったところは買いと考えるのは普通ですね",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 488,
+      "first_seen": "2026-06-29T05:11:34.982552+00:00",
+      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
+      "organic_impressions": 502,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
     }
   }
 }
