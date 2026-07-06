@@ -1,6 +1,6 @@
 {
   "username": "moo_stock",
-  "last_run": "2026-06-29T05:11:34.982552+00:00",
+  "last_run": "2026-07-06T04:50:42.684511+00:00",
   "tweets": {
     "2068121611463458982": {
       "id": "2068121611463458982",
@@ -18,7 +18,7 @@
       "organic_impressions": 138,
       "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2067951748258353465": {
       "id": "2067951748258353465",
@@ -36,7 +36,7 @@
       "organic_impressions": 151,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2067941524894093423": {
       "id": "2067941524894093423",
@@ -54,7 +54,7 @@
       "organic_impressions": 92,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2067926216955330683": {
       "id": "2067926216955330683",
@@ -72,7 +72,7 @@
       "organic_impressions": 573,
       "link_clicks": 0,
       "profile_clicks": 1,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2067926153785196571": {
       "id": "2067926153785196571",
@@ -90,7 +90,7 @@
       "organic_impressions": 130,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2067895285037031880": {
       "id": "2067895285037031880",
@@ -108,7 +108,7 @@
       "organic_impressions": 490,
       "link_clicks": 1,
       "profile_clicks": 1,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2067874600009253060": {
       "id": "2067874600009253060",
@@ -126,7 +126,7 @@
       "organic_impressions": 41,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2067813289166327842": {
       "id": "2067813289166327842",
@@ -144,7 +144,7 @@
       "organic_impressions": 265,
       "link_clicks": 1,
       "profile_clicks": 2,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2067793613183168528": {
       "id": "2067793613183168528",
@@ -162,7 +162,7 @@
       "organic_impressions": 65,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2067787325325652340": {
       "id": "2067787325325652340",
@@ -180,7 +180,7 @@
       "organic_impressions": 300,
       "link_clicks": 1,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2067764339075932587": {
       "id": "2067764339075932587",
@@ -198,7 +198,7 @@
       "organic_impressions": 165,
       "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2067748701242556601": {
       "id": "2067748701242556601",
@@ -216,7 +216,7 @@
       "organic_impressions": 49,
       "link_clicks": null,
       "profile_clicks": 1,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2067719657197379782": {
       "id": "2067719657197379782",
@@ -234,7 +234,7 @@
       "organic_impressions": 75,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2067719656375259445": {
       "id": "2067719656375259445",
@@ -252,7 +252,7 @@
       "organic_impressions": 39,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2067644744667103583": {
       "id": "2067644744667103583",
@@ -270,7 +270,7 @@
       "organic_impressions": 208,
       "link_clicks": null,
       "profile_clicks": 2,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2067561409920287174": {
       "id": "2067561409920287174",
@@ -288,7 +288,7 @@
       "organic_impressions": 711,
       "link_clicks": 3,
       "profile_clicks": 2,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2067561347907260778": {
       "id": "2067561347907260778",
@@ -306,7 +306,7 @@
       "organic_impressions": 566,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2067546217400123639": {
       "id": "2067546217400123639",
@@ -324,7 +324,7 @@
       "organic_impressions": 49,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2067509976021512399": {
       "id": "2067509976021512399",
@@ -342,7 +342,7 @@
       "organic_impressions": 387,
       "link_clicks": 3,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2067476440858386537": {
       "id": "2067476440858386537",
@@ -360,7 +360,7 @@
       "organic_impressions": 72,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2067439462401839490": {
       "id": "2067439462401839490",
@@ -378,7 +378,7 @@
       "organic_impressions": 263,
       "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2067421764171235838": {
       "id": "2067421764171235838",
@@ -396,7 +396,7 @@
       "organic_impressions": 514,
       "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2067400705950749025": {
       "id": "2067400705950749025",
@@ -414,7 +414,7 @@
       "organic_impressions": 38,
       "link_clicks": null,
       "profile_clicks": 1,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2067398683864523023": {
       "id": "2067398683864523023",
@@ -432,7 +432,7 @@
       "organic_impressions": 67,
       "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2067381316744552905": {
       "id": "2067381316744552905",
@@ -450,7 +450,7 @@
       "organic_impressions": 32,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2067376047121977788": {
       "id": "2067376047121977788",
@@ -468,7 +468,7 @@
       "organic_impressions": 38,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2067358867470913753": {
       "id": "2067358867470913753",
@@ -486,7 +486,7 @@
       "organic_impressions": 37,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2067229582219198716": {
       "id": "2067229582219198716",
@@ -504,7 +504,7 @@
       "organic_impressions": 51,
       "link_clicks": null,
       "profile_clicks": 1,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2067227908343480339": {
       "id": "2067227908343480339",
@@ -522,7 +522,7 @@
       "organic_impressions": 182,
       "link_clicks": null,
       "profile_clicks": 2,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2067206047211868630": {
       "id": "2067206047211868630",
@@ -540,7 +540,7 @@
       "organic_impressions": 686,
       "link_clicks": 3,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2067205975992410586": {
       "id": "2067205975992410586",
@@ -558,7 +558,7 @@
       "organic_impressions": 149,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2067170641153790152": {
       "id": "2067170641153790152",
@@ -576,7 +576,7 @@
       "organic_impressions": 15,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2067161317685842110": {
       "id": "2067161317685842110",
@@ -594,7 +594,7 @@
       "organic_impressions": 177,
       "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2067090720218055036": {
       "id": "2067090720218055036",
@@ -612,7 +612,7 @@
       "organic_impressions": 28,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2067078331795910681": {
       "id": "2067078331795910681",
@@ -630,7 +630,7 @@
       "organic_impressions": 81,
       "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2067059716497559706": {
       "id": "2067059716497559706",
@@ -648,7 +648,7 @@
       "organic_impressions": 254,
       "link_clicks": 4,
       "profile_clicks": 1,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2067037014524858726": {
       "id": "2067037014524858726",
@@ -666,7 +666,7 @@
       "organic_impressions": 167,
       "link_clicks": 0,
       "profile_clicks": 1,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2067033787612221831": {
       "id": "2067033787612221831",
@@ -684,7 +684,7 @@
       "organic_impressions": 25,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2067011796834116093": {
       "id": "2067011796834116093",
@@ -702,7 +702,7 @@
       "organic_impressions": 15,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2066875069133918398": {
       "id": "2066875069133918398",
@@ -720,7 +720,7 @@
       "organic_impressions": 82,
       "link_clicks": null,
       "profile_clicks": 1,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2066848639234744519": {
       "id": "2066848639234744519",
@@ -738,7 +738,7 @@
       "organic_impressions": 649,
       "link_clicks": 4,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2066848636970164544": {
       "id": "2066848636970164544",
@@ -756,7 +756,7 @@
       "organic_impressions": 31,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2066848584260080068": {
       "id": "2066848584260080068",
@@ -774,7 +774,7 @@
       "organic_impressions": 316,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2066804247002227072": {
       "id": "2066804247002227072",
@@ -792,7 +792,7 @@
       "organic_impressions": 180,
       "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2066716689878618582": {
       "id": "2066716689878618582",
@@ -810,7 +810,7 @@
       "organic_impressions": 201,
       "link_clicks": 0,
       "profile_clicks": 2,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2066698808302420110": {
       "id": "2066698808302420110",
@@ -828,7 +828,7 @@
       "organic_impressions": 182,
       "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2066677911143506350": {
       "id": "2066677911143506350",
@@ -846,7 +846,7 @@
       "organic_impressions": 107,
       "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2066538949275951206": {
       "id": "2066538949275951206",
@@ -861,10 +861,10 @@
       "views": 161,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 162,
+      "organic_impressions": 172,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2066504666574385461": {
       "id": "2066504666574385461",
@@ -882,7 +882,7 @@
       "organic_impressions": 565,
       "link_clicks": null,
       "profile_clicks": 1,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2066503250518368567": {
       "id": "2066503250518368567",
@@ -900,7 +900,7 @@
       "organic_impressions": 310,
       "link_clicks": 1,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2066503168389710292": {
       "id": "2066503168389710292",
@@ -918,7 +918,7 @@
       "organic_impressions": 95,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2066466320892485836": {
       "id": "2066466320892485836",
@@ -936,7 +936,7 @@
       "organic_impressions": 45,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2066444723837906957": {
       "id": "2066444723837906957",
@@ -954,7 +954,7 @@
       "organic_impressions": 70,
       "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2066368763872575672": {
       "id": "2066368763872575672",
@@ -972,7 +972,7 @@
       "organic_impressions": 13,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2066353982369329515": {
       "id": "2066353982369329515",
@@ -990,7 +990,7 @@
       "organic_impressions": 106,
       "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2068814485159026953": {
       "id": "2068814485159026953",
@@ -1008,7 +1008,7 @@
       "organic_impressions": 40,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2068686028928643121": {
       "id": "2068686028928643121",
@@ -1026,7 +1026,7 @@
       "organic_impressions": 44,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2068657612875600188": {
       "id": "2068657612875600188",
@@ -1044,7 +1044,7 @@
       "organic_impressions": 127,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2068611775768215970": {
       "id": "2068611775768215970",
@@ -1062,7 +1062,7 @@
       "organic_impressions": 159,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2068541086671274035": {
       "id": "2068541086671274035",
@@ -1080,7 +1080,7 @@
       "organic_impressions": 224,
       "link_clicks": null,
       "profile_clicks": 1,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2068456186744328583": {
       "id": "2068456186744328583",
@@ -1098,7 +1098,7 @@
       "organic_impressions": 30,
       "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2068306704236736928": {
       "id": "2068306704236736928",
@@ -1116,7 +1116,7 @@
       "organic_impressions": 40,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2068275574703788415": {
       "id": "2068275574703788415",
@@ -1134,7 +1134,7 @@
       "organic_impressions": 152,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2068227577680892141": {
       "id": "2068227577680892141",
@@ -1152,7 +1152,7 @@
       "organic_impressions": 160,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2068166588134494641": {
       "id": "2068166588134494641",
@@ -1170,7 +1170,7 @@
       "organic_impressions": 159,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2068126327471825153": {
       "id": "2068126327471825153",
@@ -1188,7 +1188,7 @@
       "organic_impressions": 247,
       "link_clicks": 2,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2069208820635803836": {
       "id": "2069208820635803836",
@@ -1206,7 +1206,7 @@
       "organic_impressions": 99,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2069194117033181395": {
       "id": "2069194117033181395",
@@ -1224,7 +1224,7 @@
       "organic_impressions": 13,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2069192774147334447": {
       "id": "2069192774147334447",
@@ -1239,10 +1239,10 @@
       "views": 160,
       "first_seen": "2026-06-23T00:05:43.706733+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 165,
+      "organic_impressions": 168,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2069191587754848664": {
       "id": "2069191587754848664",
@@ -1257,10 +1257,10 @@
       "views": 104,
       "first_seen": "2026-06-23T00:05:43.706733+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 105,
+      "organic_impressions": 126,
       "link_clicks": 3,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2069093355519406429": {
       "id": "2069093355519406429",
@@ -1278,7 +1278,7 @@
       "organic_impressions": 755,
       "link_clicks": null,
       "profile_clicks": 1,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2069089058043863073": {
       "id": "2069089058043863073",
@@ -1293,10 +1293,10 @@
       "views": 151,
       "first_seen": "2026-06-23T00:05:43.706733+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 151,
+      "organic_impressions": 152,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2069086028082872640": {
       "id": "2069086028082872640",
@@ -1311,10 +1311,10 @@
       "views": 311,
       "first_seen": "2026-06-23T00:05:43.706733+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 311,
+      "organic_impressions": 312,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2069035766513049975": {
       "id": "2069035766513049975",
@@ -1329,10 +1329,10 @@
       "views": 665,
       "first_seen": "2026-06-23T00:05:43.706733+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 666,
+      "organic_impressions": 667,
       "link_clicks": 1,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2069035703862989151": {
       "id": "2069035703862989151",
@@ -1347,10 +1347,10 @@
       "views": 494,
       "first_seen": "2026-06-23T00:05:43.706733+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 496,
+      "organic_impressions": 497,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2068991736517665028": {
       "id": "2068991736517665028",
@@ -1368,7 +1368,7 @@
       "organic_impressions": 1086,
       "link_clicks": null,
       "profile_clicks": 1,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2068981687254397440": {
       "id": "2068981687254397440",
@@ -1386,7 +1386,7 @@
       "organic_impressions": 511,
       "link_clicks": 2,
       "profile_clicks": 1,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2068960326180131189": {
       "id": "2068960326180131189",
@@ -1404,7 +1404,7 @@
       "organic_impressions": 99,
       "link_clicks": null,
       "profile_clicks": 3,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2068891120436699259": {
       "id": "2068891120436699259",
@@ -1422,7 +1422,7 @@
       "organic_impressions": 290,
       "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2068877029940896014": {
       "id": "2068877029940896014",
@@ -1440,7 +1440,7 @@
       "organic_impressions": 64,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2069213756505395352": {
       "id": "2069213756505395352",
@@ -1458,7 +1458,7 @@
       "organic_impressions": 492,
       "link_clicks": null,
       "profile_clicks": 1,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2069212584658534691": {
       "id": "2069212584658534691",
@@ -1476,7 +1476,7 @@
       "organic_impressions": 16,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2068905057748431299": {
       "id": "2068905057748431299",
@@ -1494,7 +1494,7 @@
       "organic_impressions": 66,
       "link_clicks": 1,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2071407453212971279": {
       "id": "2071407453212971279",
@@ -1506,13 +1506,13 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 20,
+      "views": 28,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
-      "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 20,
+      "last_fetched": "2026-07-06T04:50:42.684511+00:00",
+      "organic_impressions": 28,
       "link_clicks": null,
       "profile_clicks": 1,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2071370382024864128": {
       "id": "2071370382024864128",
@@ -1527,10 +1527,10 @@
       "views": 11,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 11,
+      "organic_impressions": 13,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2071353190944018732": {
       "id": "2071353190944018732",
@@ -1545,10 +1545,10 @@
       "views": 19,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 19,
+      "organic_impressions": 24,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2071224505351962864": {
       "id": "2071224505351962864",
@@ -1563,10 +1563,10 @@
       "views": 180,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 180,
+      "organic_impressions": 184,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2071198454991438301": {
       "id": "2071198454991438301",
@@ -1581,10 +1581,10 @@
       "views": 29,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 30,
+      "organic_impressions": 31,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2071167081996075256": {
       "id": "2071167081996075256",
@@ -1599,10 +1599,10 @@
       "views": 158,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 159,
+      "organic_impressions": 160,
       "link_clicks": null,
       "profile_clicks": 1,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2071115187524960414": {
       "id": "2071115187524960414",
@@ -1617,10 +1617,10 @@
       "views": 140,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 140,
+      "organic_impressions": 141,
       "link_clicks": null,
       "profile_clicks": 3,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2070810411587321903": {
       "id": "2070810411587321903",
@@ -1635,10 +1635,10 @@
       "views": 25,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 25,
+      "organic_impressions": 26,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2070775971834433737": {
       "id": "2070775971834433737",
@@ -1653,10 +1653,10 @@
       "views": 31,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 31,
+      "organic_impressions": 35,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2070727265323757702": {
       "id": "2070727265323757702",
@@ -1671,10 +1671,10 @@
       "views": 41,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 43,
+      "organic_impressions": 44,
       "link_clicks": null,
       "profile_clicks": 2,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2070663256671465941": {
       "id": "2070663256671465941",
@@ -1689,10 +1689,10 @@
       "views": 208,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 208,
+      "organic_impressions": 223,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2070659286036881588": {
       "id": "2070659286036881588",
@@ -1707,10 +1707,10 @@
       "views": 38,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 38,
+      "organic_impressions": 39,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2070656856687612320": {
       "id": "2070656856687612320",
@@ -1725,10 +1725,10 @@
       "views": 154,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 155,
+      "organic_impressions": 157,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2070614676392579423": {
       "id": "2070614676392579423",
@@ -1746,7 +1746,7 @@
       "organic_impressions": 35,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2070472643396923587": {
       "id": "2070472643396923587",
@@ -1761,10 +1761,10 @@
       "views": 91,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 91,
+      "organic_impressions": 124,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2070452535970738646": {
       "id": "2070452535970738646",
@@ -1782,7 +1782,7 @@
       "organic_impressions": 18,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2070446560681300465": {
       "id": "2070446560681300465",
@@ -1797,10 +1797,10 @@
       "views": 1377,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 1382,
+      "organic_impressions": 1496,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2070446508093190564": {
       "id": "2070446508093190564",
@@ -1815,10 +1815,10 @@
       "views": 820,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 821,
+      "organic_impressions": 842,
       "link_clicks": null,
       "profile_clicks": 1,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2070400516551823472": {
       "id": "2070400516551823472",
@@ -1836,7 +1836,7 @@
       "organic_impressions": 27,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2070340953123029257": {
       "id": "2070340953123029257",
@@ -1854,7 +1854,7 @@
       "organic_impressions": 31,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2070301527781118282": {
       "id": "2070301527781118282",
@@ -1869,10 +1869,10 @@
       "views": 578,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 580,
+      "organic_impressions": 599,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2070297001430765781": {
       "id": "2070297001430765781",
@@ -1887,10 +1887,10 @@
       "views": 78,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 78,
+      "organic_impressions": 80,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2070293963580338334": {
       "id": "2070293963580338334",
@@ -1908,7 +1908,7 @@
       "organic_impressions": 72,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2070270718051229745": {
       "id": "2070270718051229745",
@@ -1926,7 +1926,7 @@
       "organic_impressions": 26,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2070108727273722292": {
       "id": "2070108727273722292",
@@ -1941,10 +1941,10 @@
       "views": 90,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 92,
+      "organic_impressions": 99,
       "link_clicks": null,
       "profile_clicks": 1,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2070082422159323592": {
       "id": "2070082422159323592",
@@ -1959,10 +1959,10 @@
       "views": 1758,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 1764,
+      "organic_impressions": 1778,
       "link_clicks": null,
       "profile_clicks": 2,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2070082351988625464": {
       "id": "2070082351988625464",
@@ -1977,10 +1977,10 @@
       "views": 732,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 735,
+      "organic_impressions": 742,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2070059740906799223": {
       "id": "2070059740906799223",
@@ -1998,7 +1998,7 @@
       "organic_impressions": 22,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2070021922692239608": {
       "id": "2070021922692239608",
@@ -2016,7 +2016,7 @@
       "organic_impressions": 231,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2070014666634645960": {
       "id": "2070014666634645960",
@@ -2031,10 +2031,10 @@
       "views": 586,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 586,
+      "organic_impressions": 592,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2070005142632513950": {
       "id": "2070005142632513950",
@@ -2049,10 +2049,10 @@
       "views": 594,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 594,
+      "organic_impressions": 600,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2069972578949816404": {
       "id": "2069972578949816404",
@@ -2067,10 +2067,10 @@
       "views": 286,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 287,
+      "organic_impressions": 289,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2069964209904095266": {
       "id": "2069964209904095266",
@@ -2085,10 +2085,10 @@
       "views": 518,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 519,
+      "organic_impressions": 520,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2069938823031603228": {
       "id": "2069938823031603228",
@@ -2103,10 +2103,10 @@
       "views": 247,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 248,
+      "organic_impressions": 250,
       "link_clicks": null,
       "profile_clicks": 3,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2069935577768583545": {
       "id": "2069935577768583545",
@@ -2124,7 +2124,7 @@
       "organic_impressions": 141,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2069933028483469489": {
       "id": "2069933028483469489",
@@ -2142,7 +2142,7 @@
       "organic_impressions": 110,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2069915149348061687": {
       "id": "2069915149348061687",
@@ -2160,7 +2160,7 @@
       "organic_impressions": 26,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2069902383430406471": {
       "id": "2069902383430406471",
@@ -2178,7 +2178,7 @@
       "organic_impressions": 133,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2069900628718232021": {
       "id": "2069900628718232021",
@@ -2196,7 +2196,7 @@
       "organic_impressions": 239,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2069899488668643562": {
       "id": "2069899488668643562",
@@ -2211,10 +2211,10 @@
       "views": 180,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 180,
+      "organic_impressions": 181,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2069890806924599363": {
       "id": "2069890806924599363",
@@ -2229,10 +2229,10 @@
       "views": 37,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 37,
+      "organic_impressions": 38,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2069752491605139657": {
       "id": "2069752491605139657",
@@ -2247,10 +2247,10 @@
       "views": 80,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 80,
+      "organic_impressions": 82,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2069747778146980347": {
       "id": "2069747778146980347",
@@ -2268,7 +2268,7 @@
       "organic_impressions": 93,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2069726042076442626": {
       "id": "2069726042076442626",
@@ -2286,7 +2286,7 @@
       "organic_impressions": 162,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2069721424097628227": {
       "id": "2069721424097628227",
@@ -2301,10 +2301,10 @@
       "views": 246,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 246,
+      "organic_impressions": 253,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2069721360541053115": {
       "id": "2069721360541053115",
@@ -2319,10 +2319,10 @@
       "views": 73,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 73,
+      "organic_impressions": 78,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2069673549925687473": {
       "id": "2069673549925687473",
@@ -2340,7 +2340,7 @@
       "organic_impressions": 85,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2069671502275072215": {
       "id": "2069671502275072215",
@@ -2355,10 +2355,10 @@
       "views": 202,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 202,
+      "organic_impressions": 203,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2069614916684652856": {
       "id": "2069614916684652856",
@@ -2376,7 +2376,7 @@
       "organic_impressions": 67,
       "link_clicks": null,
       "profile_clicks": 1,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2069609827324563610": {
       "id": "2069609827324563610",
@@ -2391,10 +2391,10 @@
       "views": 353,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 353,
+      "organic_impressions": 355,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2069573631215128668": {
       "id": "2069573631215128668",
@@ -2409,10 +2409,10 @@
       "views": 320,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 320,
+      "organic_impressions": 321,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2069569777006236028": {
       "id": "2069569777006236028",
@@ -2430,7 +2430,7 @@
       "organic_impressions": 138,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2069568115655250000": {
       "id": "2069568115655250000",
@@ -2448,7 +2448,7 @@
       "organic_impressions": 110,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2069552587335225427": {
       "id": "2069552587335225427",
@@ -2463,10 +2463,10 @@
       "views": 37,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 37,
+      "organic_impressions": 38,
       "link_clicks": null,
       "profile_clicks": 1,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2069529541844816061": {
       "id": "2069529541844816061",
@@ -2484,7 +2484,7 @@
       "organic_impressions": 109,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2069389047785541937": {
       "id": "2069389047785541937",
@@ -2499,10 +2499,10 @@
       "views": 110,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 110,
+      "organic_impressions": 114,
       "link_clicks": null,
       "profile_clicks": 1,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2069384728000749586": {
       "id": "2069384728000749586",
@@ -2520,7 +2520,7 @@
       "organic_impressions": 76,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2069362354513440948": {
       "id": "2069362354513440948",
@@ -2535,10 +2535,10 @@
       "views": 191,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 193,
+      "organic_impressions": 196,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2069362299761033446": {
       "id": "2069362299761033446",
@@ -2556,7 +2556,7 @@
       "organic_impressions": 472,
       "link_clicks": null,
       "profile_clicks": 1,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2069336605043953970": {
       "id": "2069336605043953970",
@@ -2574,7 +2574,7 @@
       "organic_impressions": 74,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2069279335173767178": {
       "id": "2069279335173767178",
@@ -2592,7 +2592,7 @@
       "organic_impressions": 30,
       "link_clicks": null,
       "profile_clicks": 1,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     },
     "2069275914459131989": {
       "id": "2069275914459131989",
@@ -2610,7 +2610,457 @@
       "organic_impressions": 502,
       "link_clicks": null,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-06-29T05:11:44.071619+00:00"
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+    },
+    "2073199090687484051": {
+      "id": "2073199090687484051",
+      "created_at": "Sat Jul 04 00:15:56 +0000 2026",
+      "text": "今朝のADR動向 (7/4)\n\n上がってる:\n大東建託 +4.1%\nニトリ +3.8%\n任天堂 +3.3%\nレゾナックHD +3.0%\n\n下がってる:\nキオクシアHD -19.4%\n日本郵政 -14.2%\nコナミG -12.7%\nローム -11.9%\n\nニュース詳細はプロフィールのリンクと固定ポストに。",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 348,
+      "first_seen": "2026-07-06T04:50:42.684511+00:00",
+      "last_fetched": "2026-07-06T04:50:42.684511+00:00",
+      "organic_impressions": 348,
+      "link_clicks": null,
+      "profile_clicks": 2,
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+    },
+    "2073194217879339449": {
+      "id": "2073194217879339449",
+      "created_at": "Fri Jul 03 23:56:34 +0000 2026",
+      "text": "📊 米国市場 本日の値動き (7/3)\nS&amp;P500 +0.0% / NASDAQ -0.8%\n\n📈 ベスト\n1. GPC +12.9%\n2. MRNA +10.0%\n3. RIVN +8.4%\n4. EFX +6.1%\n\n📉 ワースト\n1. TER -13.6%\n2. KLAC -11.5%\n3. GLW -10.8%\n4. STX -10.4%\n\n#米国株 #SP500\nニュース詳細はプロフィールのリンクと固定ポストに。",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 127,
+      "first_seen": "2026-07-06T04:50:42.684511+00:00",
+      "last_fetched": "2026-07-06T04:50:42.684511+00:00",
+      "organic_impressions": 127,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+    },
+    "2073005995651908085": {
+      "id": "2073005995651908085",
+      "created_at": "Fri Jul 03 11:28:38 +0000 2026",
+      "text": "【著名投資家の大量保有】 20:28時点\n全市場対象(中小型・グロース250含む)\n★株式会社ミダスキャピタル→株式会社ＢｕｙＳｅｌ(7685) 49.02%\n★カナメ・キャピタル・エル→トレックス・セミコン(6616) 11.16%\n\nニュース詳細はプロフィールのリンクと固定ポストに。\n#大量保有 #日本株",
+      "is_reply": false,
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 83,
+      "first_seen": "2026-07-06T04:50:42.684511+00:00",
+      "last_fetched": "2026-07-06T04:50:42.684511+00:00",
+      "organic_impressions": 82,
+      "link_clicks": null,
+      "profile_clicks": 1,
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+    },
+    "2072979117364883479": {
+      "id": "2072979117364883479",
+      "created_at": "Fri Jul 03 09:41:50 +0000 2026",
+      "text": "📊グロース250 7/3\n\n📈上昇TOP3\n1. 3133 海帆 +41.7%\n2. 4575 キャンバス +16.9%\n3. 4258 網屋 +12.1%\n\n📉下落TOP3\n1. 4389 プロパティDB -4.7%\n2. 4594 ブライトパス・バ -4.2%\n3. 2321 ソフトフロントホ -4.0%\n\nニュース詳細はプロフィールのリンクと固定ポストに。",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 849,
+      "first_seen": "2026-07-06T04:50:42.684511+00:00",
+      "last_fetched": "2026-07-06T04:50:42.684511+00:00",
+      "organic_impressions": 847,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+    },
+    "2072837226023547258": {
+      "id": "2072837226023547258",
+      "created_at": "Fri Jul 03 00:18:00 +0000 2026",
+      "text": "今朝のADR動向 (7/3)\n\n上がってる:\nレゾナックHD +5.6%\nローム +4.6%\nANA +3.8%\n武田薬品工業 +2.7%\n\n下がってる:\nニデック -25.0%\n花王 -14.6%\nコナミG -12.6%\n日本郵政 -7.3%\n\nニュース詳細はプロフィールのリンクと固定ポストに。",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 272,
+      "first_seen": "2026-07-06T04:50:42.684511+00:00",
+      "last_fetched": "2026-07-06T04:50:42.684511+00:00",
+      "organic_impressions": 272,
+      "link_clicks": null,
+      "profile_clicks": 1,
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+    },
+    "2072831453637853573": {
+      "id": "2072831453637853573",
+      "created_at": "Thu Jul 02 23:55:04 +0000 2026",
+      "text": "📊 米国市場 本日の値動き (7/2)\nS&amp;P500 +0.0% / NASDAQ -0.8%\n\n📈 ベスト\n1. GPC +12.9%\n2. MRNA +10.0%\n3. RIVN +8.4%\n4. EFX +6.1%\n\n📉 ワースト\n1. TER -13.6%\n2. KLAC -11.5%\n3. GLW -10.8%\n4. STX -10.4%\n\n#米国株 #SP500\nニュース詳細はプロフィールのリンクと固定ポストに。",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 68,
+      "first_seen": "2026-07-06T04:50:42.684511+00:00",
+      "last_fetched": "2026-07-06T04:50:42.684511+00:00",
+      "organic_impressions": 68,
+      "link_clicks": null,
+      "profile_clicks": 1,
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+    },
+    "2072643795968024983": {
+      "id": "2072643795968024983",
+      "created_at": "Thu Jul 02 11:29:23 +0000 2026",
+      "text": "【著名投資家の大量保有】 20:29時点\n全市場対象(中小型・グロース250含む)\n★シンフォニー・フィナンシ→株式会社ナガワ(9663) 14.87%\n★シルチェスター・インター→住友重機械工業株式会(6302) 7.03%\n\nニュース詳細はプロフィールのリンクと固定ポストに。\n#大量保有 #日本株",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 135,
+      "first_seen": "2026-07-06T04:50:42.684511+00:00",
+      "last_fetched": "2026-07-06T04:50:42.684511+00:00",
+      "organic_impressions": 135,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+    },
+    "2072475401713271244": {
+      "id": "2072475401713271244",
+      "created_at": "Thu Jul 02 00:20:15 +0000 2026",
+      "text": "今朝のADR動向 (7/2)\n\n上がってる:\nリードリアル +7.2%\n楽天グループ +3.6%\nカプコン +3.4%\n大東建託 +3.0%\n\n下がってる:\nディスコ -9.1%\n東エレク -8.5%\nソフトバンクG -6.4%\n住友電工 -6.4%\n\nニュース詳細はプロフィールのリンクと固定ポストに。",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 249,
+      "first_seen": "2026-07-06T04:50:42.684511+00:00",
+      "last_fetched": "2026-07-06T04:50:42.684511+00:00",
+      "organic_impressions": 250,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+    },
+    "2072470738192212259": {
+      "id": "2072470738192212259",
+      "created_at": "Thu Jul 02 00:01:43 +0000 2026",
+      "text": "📊 米国市場 本日の値動き (7/1)\nS&amp;P500 -0.2% / NASDAQ -0.7%\n\n📈 ベスト\n1. CRWD +10.2%\n2. META +8.8%\n3. GIS +8.5%\n4. ELV +7.6%\n\n📉 ワースト\n1. GLW -13.6%\n2. KLAC -11.8%\n3. TER -11.7%\n4. MU -10.6%\n\n#米国株 #SP500\nニュース詳細はプロフィールのリンクと固定ポストに。",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 91,
+      "first_seen": "2026-07-06T04:50:42.684511+00:00",
+      "last_fetched": "2026-07-06T04:50:42.684511+00:00",
+      "organic_impressions": 91,
+      "link_clicks": null,
+      "profile_clicks": 1,
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+    },
+    "2072288128274948323": {
+      "id": "2072288128274948323",
+      "created_at": "Wed Jul 01 11:56:05 +0000 2026",
+      "text": "【著名投資家の大量保有】 20:56時点\n全市場対象(中小型・グロース250含む)\n★株式会社ヴァレックス・パ→株式会社オロ(3983) 9.75%\n★Ｏａｓｉｓ　Ｍａｎａｇｅ→株式会社インターネッ(3774) 9.07%\n\nニュース詳細はプロフィールのリンクと固定ポストに。\n#大量保有 #日本株",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 62,
+      "first_seen": "2026-07-06T04:50:42.684511+00:00",
+      "last_fetched": "2026-07-06T04:50:42.684511+00:00",
+      "organic_impressions": 62,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+    },
+    "2072266330867159101": {
+      "id": "2072266330867159101",
+      "created_at": "Wed Jul 01 10:29:28 +0000 2026",
+      "text": "📊グロース250 7/1\n\n📈上昇TOP3\n1. 4414 フレクト +11.0%\n2. 5258 TMN +10.2%\n3. 3133 海帆 +8.7%\n\n📉下落TOP3\n1. 7352 TWOSTONE -17.6%\n2. 9235 売れるネット広告 -5.2%\n3. 219A Heartsee -4.7%\n\nニュース詳細はプロフィールのリンクと固定ポストに。",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 427,
+      "first_seen": "2026-07-06T04:50:42.684511+00:00",
+      "last_fetched": "2026-07-06T04:50:42.684511+00:00",
+      "organic_impressions": 428,
+      "link_clicks": null,
+      "profile_clicks": 1,
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+    },
+    "2072215069539405964": {
+      "id": "2072215069539405964",
+      "created_at": "Wed Jul 01 07:05:47 +0000 2026",
+      "text": "📊 日経225 寄与度ランキング (7/1)\n\n🟢 ベスト3(押し上げ)\n1. 東エレク +¥165.0\n2. イビデン +¥131.3\n3. 太陽誘電 +¥83.5\n\n🔴 ワースト3(押し下げ)\n1. フジクラ -¥82.4\n2. アドバンテ -¥81.6\n3. キオクシアHD -¥36.2\n\n#日経平均 #日経225 #寄与度\nニュース詳細はプロフィールのリンクと固定ポストに。",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 268,
+      "first_seen": "2026-07-06T04:50:42.684511+00:00",
+      "last_fetched": "2026-07-06T04:50:42.684511+00:00",
+      "organic_impressions": 269,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+    },
+    "2072149205309649178": {
+      "id": "2072149205309649178",
+      "created_at": "Wed Jul 01 02:44:03 +0000 2026",
+      "text": "📊 日経225 寄与度ランキング (7/1)\n\n🟢 ベスト3(押し上げ)\n1. イビデン +¥142.0\n2. 太陽誘電 +¥100.2\n3. 京セラ +¥67.5\n\n🔴 ワースト3(押し下げ)\n1. フジクラ -¥59.4\n2. キオクシアHD -¥40.6\n3. KDDI -¥29.6\n\n#日経平均 #日経225 #寄与度\nニュース詳細はプロフィールのリンクと固定ポストに。",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 400,
+      "first_seen": "2026-07-06T04:50:42.684511+00:00",
+      "last_fetched": "2026-07-06T04:50:42.684511+00:00",
+      "organic_impressions": 400,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+    },
+    "2072112833102594360": {
+      "id": "2072112833102594360",
+      "created_at": "Wed Jul 01 00:19:32 +0000 2026",
+      "text": "今朝のADR動向 (7/1)\n\n上がってる:\n日本郵政 +9.7%\nキオクシアHD +6.5%\nANA +6.1%\nディスコ +4.5%\n\n下がってる:\n花王 -19.1%\nアイシン -6.5%\nレゾナックHD -5.6%\nリードリアル -5.5%\n\nニュース詳細はプロフィールのリンクと固定ポストに。",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 425,
+      "first_seen": "2026-07-06T04:50:42.684511+00:00",
+      "last_fetched": "2026-07-06T04:50:42.684511+00:00",
+      "organic_impressions": 428,
+      "link_clicks": null,
+      "profile_clicks": 2,
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+    },
+    "2072107334726258759": {
+      "id": "2072107334726258759",
+      "created_at": "Tue Jun 30 23:57:41 +0000 2026",
+      "text": "📊 米国市場 本日の値動き (6/30)\nS&amp;P500 +0.8% / NASDAQ +1.5%\n\n📈 ベスト\n1. AXON +9.8%\n2. KLAC +8.4%\n3. APD +8.0%\n4. AMD +7.7%\n\n📉 ワースト\n1. DLR -5.8%\n2. HRL -5.7%\n3. ZBH -5.6%\n4. MOS -5.6%\n\n#米国株 #SP500\nニュース詳細はプロフィールのリンクと固定ポストに。",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 72,
+      "first_seen": "2026-07-06T04:50:42.684511+00:00",
+      "last_fetched": "2026-07-06T04:50:42.684511+00:00",
+      "organic_impressions": 72,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+    },
+    "2071922021416505517": {
+      "id": "2071922021416505517",
+      "created_at": "Tue Jun 30 11:41:19 +0000 2026",
+      "text": "【著名投資家の大量保有】 20:41時点\n全市場対象(中小型・グロース250含む)\n★株式会社ストラテジックキ→山洋電気株式会社(6516) 13.75%\n★Ｏａｓｉｓ　Ｍａｎａｇｅ→マネックスグループ株(8698) 5.15%\n\nニュース詳細はプロフィールのリンクと固定ポストに。\n#大量保有 #日本株",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 110,
+      "first_seen": "2026-07-06T04:50:42.684511+00:00",
+      "last_fetched": "2026-07-06T04:50:42.684511+00:00",
+      "organic_impressions": 110,
+      "link_clicks": null,
+      "profile_clicks": 1,
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+    },
+    "2071898242636279971": {
+      "id": "2071898242636279971",
+      "created_at": "Tue Jun 30 10:06:49 +0000 2026",
+      "text": "📊グロース250 6/30\n\n📈上昇TOP3\n1. 3133 海帆 +30.2%\n2. 3989 シェアリングテク +22.1%\n3. 218A Liberawa +11.1%\n\n📉下落TOP3\n1. 7352 TWOSTONE -8.2%\n2. 7779 CYBERDYN -4.5%\n3. 4594 ブライトパス・バ -4.2%\n\nニュース詳細はプロフィールのリンクと固定ポストに。",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 638,
+      "first_seen": "2026-07-06T04:50:42.684511+00:00",
+      "last_fetched": "2026-07-06T04:50:42.684511+00:00",
+      "organic_impressions": 644,
+      "link_clicks": null,
+      "profile_clicks": 1,
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+    },
+    "2071848881982165094": {
+      "id": "2071848881982165094",
+      "created_at": "Tue Jun 30 06:50:41 +0000 2026",
+      "text": "📊 日経225 寄与度ランキング (6/30)\n\n🟢 ベスト3(押し上げ)\n1. 東エレク +¥245.0\n2. アドバンテ +¥93.6\n3. フジクラ +¥70.6\n\n🔴 ワースト3(押し下げ)\n1. ファストリ -¥125.6\n2. TDK -¥11.5\n3. コナミG -¥8.8\n\n#日経平均 #日経225 #寄与度\nニュース詳細はプロフィールのリンクと固定ポストに。",
+      "is_reply": false,
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 73,
+      "first_seen": "2026-07-06T04:50:42.684511+00:00",
+      "last_fetched": "2026-07-06T04:50:42.684511+00:00",
+      "organic_impressions": 73,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+    },
+    "2071785298858803299": {
+      "id": "2071785298858803299",
+      "created_at": "Tue Jun 30 02:38:01 +0000 2026",
+      "text": "📊 日経225 寄与度ランキング (6/30)\n\n🟢 ベスト3(押し上げ)\n1. 東エレク +¥288.0\n2. アドバンテ +¥60.0\n3. フジクラ +¥54.8\n\n🔴 ワースト3(押し下げ)\n1. ファストリ -¥93.6\n2. TDK -¥11.5\n3. コナミG -¥9.8\n\n#日経平均 #日経225 #寄与度\nニュース詳細はプロフィールのリンクと固定ポストに。",
+      "is_reply": false,
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 97,
+      "first_seen": "2026-07-06T04:50:42.684511+00:00",
+      "last_fetched": "2026-07-06T04:50:42.684511+00:00",
+      "organic_impressions": 97,
+      "link_clicks": null,
+      "profile_clicks": 1,
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+    },
+    "2071743842949255194": {
+      "id": "2071743842949255194",
+      "created_at": "Mon Jun 29 23:53:17 +0000 2026",
+      "text": "📊 米国市場 本日の値動き (6/29)\nS&amp;P500 +1.2% / NASDAQ +2.1%\n\n📈 ベスト\n1. GLW +15.7%\n2. KLAC +12.0%\n3. WDC +11.2%\n4. AMAT +10.8%\n\n📉 ワースト\n1. HON -50.9%\n2. SMCI -8.1%\n3. CE -7.1%\n4. ULTA -6.0%\n\n#米国株 #SP500\nニュース詳細はプロフィールのリンクと固定ポストに。",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 97,
+      "first_seen": "2026-07-06T04:50:42.684511+00:00",
+      "last_fetched": "2026-07-06T04:50:42.684511+00:00",
+      "organic_impressions": 97,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+    },
+    "2071579749349315028": {
+      "id": "2071579749349315028",
+      "created_at": "Mon Jun 29 13:01:14 +0000 2026",
+      "text": "【著名投資家の大量保有】 22:01時点\n全市場対象(中小型・グロース250含む)\n★Ｏａｓｉｓ　Ｍａｎａｇｅ→株式会社アインホール(9627) 17.74%\n★ｆｕｎｄｎｏｔｅ株式会社→日本シイエムケイ株式(6958) 13.03%\n\nニュース詳細はプロフィールのリンクと固定ポストに。\n#大量保有 #日本株",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 212,
+      "first_seen": "2026-07-06T04:50:42.684511+00:00",
+      "last_fetched": "2026-07-06T04:50:42.684511+00:00",
+      "organic_impressions": 213,
+      "link_clicks": null,
+      "profile_clicks": 1,
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+    },
+    "2071563583754768487": {
+      "id": "2071563583754768487",
+      "created_at": "Mon Jun 29 11:57:00 +0000 2026",
+      "text": "🔴速報\nトランプ:イランが会談を要請してきた。明日ドーハで開催される!大統領DJT\n\n詳細はプロフィール固定の「News Headline Monitor」へ",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 62,
+      "first_seen": "2026-07-06T04:50:42.684511+00:00",
+      "last_fetched": "2026-07-06T04:50:42.684511+00:00",
+      "organic_impressions": 62,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+    },
+    "2071557165047808329": {
+      "id": "2071557165047808329",
+      "created_at": "Mon Jun 29 11:31:30 +0000 2026",
+      "text": "📊グロース250 6/29\n\n📈上昇TOP3\n1. 7352 TWOSTONE +18.1%\n2. 4417 GSX +15.6%\n3. 3989 シェアリングテク +15.1%\n\n📉下落TOP3\n1. 3133 海帆 -25.4%\n2. 3905 データセクション -14.0%\n3. 4055 ティアンドエスグ -7.5%\n\nニュース詳細はプロフィールのリンクと固定ポストに。",
+      "is_reply": false,
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 1029,
+      "first_seen": "2026-07-06T04:50:42.684511+00:00",
+      "last_fetched": "2026-07-06T04:50:42.684511+00:00",
+      "organic_impressions": 1032,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+    },
+    "2071557105404776917": {
+      "id": "2071557105404776917",
+      "created_at": "Mon Jun 29 11:31:16 +0000 2026",
+      "text": "グロース250銘柄で6/29は値上がり201銘柄が値下がり35銘柄を上回った。上昇ではセキュリティ・シェアリング関連が主役で、TWOSTONE＆Sons+18.1%など買われた。一方海帆-25.4%などが下落。\n\n詳細はプロフィールのリンクから確認してください",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 312,
+      "first_seen": "2026-07-06T04:50:42.684511+00:00",
+      "last_fetched": "2026-07-06T04:50:42.684511+00:00",
+      "organic_impressions": 313,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+    },
+    "2071484813547098145": {
+      "id": "2071484813547098145",
+      "created_at": "Mon Jun 29 06:44:00 +0000 2026",
+      "text": "🔴速報\n韓国のチップ関連銘柄の上昇が株式市場を危険水域へ押し上げている—WSJ\n\n詳細はプロフィール固定の「News Headline Monitor」へ",
+      "is_reply": false,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 19,
+      "first_seen": "2026-07-06T04:50:42.684511+00:00",
+      "last_fetched": "2026-07-06T04:50:42.684511+00:00",
+      "organic_impressions": 19,
+      "link_clicks": null,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
     }
   }
 }
