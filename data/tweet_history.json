@@ -1,6 +1,6 @@
 {
   "username": "moo_stock",
-  "last_run": "2026-07-06T04:50:42.684511+00:00",
+  "last_run": "2026-07-13T04:08:36.609141+00:00",
   "tweets": {
     "2068121611463458982": {
       "id": "2068121611463458982",
@@ -15,10 +15,10 @@
       "views": 135,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 138,
+      "organic_impressions": 0,
       "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2067951748258353465": {
       "id": "2067951748258353465",
@@ -33,10 +33,10 @@
       "views": 130,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 151,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2067941524894093423": {
       "id": "2067941524894093423",
@@ -51,10 +51,10 @@
       "views": 90,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 92,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2067926216955330683": {
       "id": "2067926216955330683",
@@ -69,10 +69,10 @@
       "views": 503,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 573,
+      "organic_impressions": 0,
       "link_clicks": 0,
-      "profile_clicks": 1,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2067926153785196571": {
       "id": "2067926153785196571",
@@ -87,10 +87,10 @@
       "views": 125,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 130,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2067895285037031880": {
       "id": "2067895285037031880",
@@ -105,10 +105,10 @@
       "views": 479,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 490,
-      "link_clicks": 1,
-      "profile_clicks": 1,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "organic_impressions": 0,
+      "link_clicks": 0,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2067874600009253060": {
       "id": "2067874600009253060",
@@ -123,10 +123,10 @@
       "views": 36,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 41,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2067813289166327842": {
       "id": "2067813289166327842",
@@ -141,10 +141,10 @@
       "views": 263,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 265,
-      "link_clicks": 1,
-      "profile_clicks": 2,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "organic_impressions": 0,
+      "link_clicks": 0,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2067793613183168528": {
       "id": "2067793613183168528",
@@ -159,10 +159,10 @@
       "views": 64,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 65,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2067787325325652340": {
       "id": "2067787325325652340",
@@ -177,10 +177,10 @@
       "views": 295,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 300,
-      "link_clicks": 1,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2067764339075932587": {
       "id": "2067764339075932587",
@@ -195,10 +195,10 @@
       "views": 163,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 165,
+      "organic_impressions": 0,
       "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2067748701242556601": {
       "id": "2067748701242556601",
@@ -213,10 +213,10 @@
       "views": 47,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 49,
-      "link_clicks": null,
-      "profile_clicks": 1,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "organic_impressions": 0,
+      "link_clicks": 0,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2067719657197379782": {
       "id": "2067719657197379782",
@@ -231,10 +231,10 @@
       "views": 74,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 75,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2067719656375259445": {
       "id": "2067719656375259445",
@@ -249,10 +249,10 @@
       "views": 38,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 39,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2067644744667103583": {
       "id": "2067644744667103583",
@@ -267,10 +267,10 @@
       "views": 199,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 208,
-      "link_clicks": null,
-      "profile_clicks": 2,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "organic_impressions": 0,
+      "link_clicks": 0,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2067561409920287174": {
       "id": "2067561409920287174",
@@ -285,10 +285,10 @@
       "views": 685,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 711,
-      "link_clicks": 3,
-      "profile_clicks": 2,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "organic_impressions": 0,
+      "link_clicks": 0,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2067561347907260778": {
       "id": "2067561347907260778",
@@ -303,10 +303,10 @@
       "views": 552,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 566,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2067546217400123639": {
       "id": "2067546217400123639",
@@ -321,10 +321,10 @@
       "views": 48,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 49,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2067509976021512399": {
       "id": "2067509976021512399",
@@ -339,10 +339,10 @@
       "views": 387,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 387,
-      "link_clicks": 3,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2067476440858386537": {
       "id": "2067476440858386537",
@@ -357,10 +357,10 @@
       "views": 72,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 72,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2067439462401839490": {
       "id": "2067439462401839490",
@@ -375,10 +375,10 @@
       "views": 262,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 263,
+      "organic_impressions": 0,
       "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2067421764171235838": {
       "id": "2067421764171235838",
@@ -393,10 +393,10 @@
       "views": 506,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 514,
+      "organic_impressions": 0,
       "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2067400705950749025": {
       "id": "2067400705950749025",
@@ -411,10 +411,10 @@
       "views": 38,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 38,
-      "link_clicks": null,
-      "profile_clicks": 1,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "organic_impressions": 0,
+      "link_clicks": 0,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2067398683864523023": {
       "id": "2067398683864523023",
@@ -429,10 +429,10 @@
       "views": 65,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 67,
+      "organic_impressions": 0,
       "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2067381316744552905": {
       "id": "2067381316744552905",
@@ -447,10 +447,10 @@
       "views": 32,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 32,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2067376047121977788": {
       "id": "2067376047121977788",
@@ -465,10 +465,10 @@
       "views": 38,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 38,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2067358867470913753": {
       "id": "2067358867470913753",
@@ -483,10 +483,10 @@
       "views": 37,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 37,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2067229582219198716": {
       "id": "2067229582219198716",
@@ -501,10 +501,10 @@
       "views": 51,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 51,
-      "link_clicks": null,
-      "profile_clicks": 1,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "organic_impressions": 0,
+      "link_clicks": 0,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2067227908343480339": {
       "id": "2067227908343480339",
@@ -519,10 +519,10 @@
       "views": 159,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 182,
-      "link_clicks": null,
-      "profile_clicks": 2,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "organic_impressions": 0,
+      "link_clicks": 0,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2067206047211868630": {
       "id": "2067206047211868630",
@@ -537,10 +537,10 @@
       "views": 673,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 686,
-      "link_clicks": 3,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2067205975992410586": {
       "id": "2067205975992410586",
@@ -555,10 +555,10 @@
       "views": 149,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 149,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2067170641153790152": {
       "id": "2067170641153790152",
@@ -573,10 +573,10 @@
       "views": 15,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 15,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2067161317685842110": {
       "id": "2067161317685842110",
@@ -591,10 +591,10 @@
       "views": 177,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 177,
+      "organic_impressions": 0,
       "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2067090720218055036": {
       "id": "2067090720218055036",
@@ -609,10 +609,10 @@
       "views": 28,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 28,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2067078331795910681": {
       "id": "2067078331795910681",
@@ -627,10 +627,10 @@
       "views": 81,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 81,
+      "organic_impressions": 0,
       "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2067059716497559706": {
       "id": "2067059716497559706",
@@ -645,10 +645,10 @@
       "views": 253,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 254,
-      "link_clicks": 4,
-      "profile_clicks": 1,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "organic_impressions": 0,
+      "link_clicks": 0,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2067037014524858726": {
       "id": "2067037014524858726",
@@ -663,10 +663,10 @@
       "views": 163,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 167,
+      "organic_impressions": 0,
       "link_clicks": 0,
-      "profile_clicks": 1,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2067033787612221831": {
       "id": "2067033787612221831",
@@ -681,10 +681,10 @@
       "views": 25,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 25,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2067011796834116093": {
       "id": "2067011796834116093",
@@ -699,10 +699,10 @@
       "views": 15,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 15,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2066875069133918398": {
       "id": "2066875069133918398",
@@ -717,10 +717,10 @@
       "views": 79,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 82,
-      "link_clicks": null,
-      "profile_clicks": 1,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "organic_impressions": 0,
+      "link_clicks": 0,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2066848639234744519": {
       "id": "2066848639234744519",
@@ -735,10 +735,10 @@
       "views": 644,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 649,
-      "link_clicks": 4,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2066848636970164544": {
       "id": "2066848636970164544",
@@ -753,10 +753,10 @@
       "views": 30,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 31,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2066848584260080068": {
       "id": "2066848584260080068",
@@ -771,10 +771,10 @@
       "views": 311,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 316,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2066804247002227072": {
       "id": "2066804247002227072",
@@ -789,10 +789,10 @@
       "views": 179,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 180,
+      "organic_impressions": 0,
       "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2066716689878618582": {
       "id": "2066716689878618582",
@@ -807,10 +807,10 @@
       "views": 200,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 201,
+      "organic_impressions": 0,
       "link_clicks": 0,
-      "profile_clicks": 2,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2066698808302420110": {
       "id": "2066698808302420110",
@@ -825,10 +825,10 @@
       "views": 181,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 182,
+      "organic_impressions": 0,
       "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2066677911143506350": {
       "id": "2066677911143506350",
@@ -843,10 +843,10 @@
       "views": 107,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 107,
+      "organic_impressions": 0,
       "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2066538949275951206": {
       "id": "2066538949275951206",
@@ -861,10 +861,10 @@
       "views": 161,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 172,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2066504666574385461": {
       "id": "2066504666574385461",
@@ -879,10 +879,10 @@
       "views": 563,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:05:43.706733+00:00",
-      "organic_impressions": 565,
-      "link_clicks": null,
-      "profile_clicks": 1,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "organic_impressions": 0,
+      "link_clicks": 0,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2066503250518368567": {
       "id": "2066503250518368567",
@@ -897,10 +897,10 @@
       "views": 310,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:05:43.706733+00:00",
-      "organic_impressions": 310,
-      "link_clicks": 1,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2066503168389710292": {
       "id": "2066503168389710292",
@@ -915,10 +915,10 @@
       "views": 95,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:05:43.706733+00:00",
-      "organic_impressions": 95,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2066466320892485836": {
       "id": "2066466320892485836",
@@ -933,10 +933,10 @@
       "views": 45,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:05:43.706733+00:00",
-      "organic_impressions": 45,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2066444723837906957": {
       "id": "2066444723837906957",
@@ -951,10 +951,10 @@
       "views": 70,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:05:43.706733+00:00",
-      "organic_impressions": 70,
+      "organic_impressions": 0,
       "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2066368763872575672": {
       "id": "2066368763872575672",
@@ -1005,10 +1005,10 @@
       "views": 38,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 40,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2068686028928643121": {
       "id": "2068686028928643121",
@@ -1023,10 +1023,10 @@
       "views": 43,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 44,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2068657612875600188": {
       "id": "2068657612875600188",
@@ -1041,10 +1041,10 @@
       "views": 126,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 127,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2068611775768215970": {
       "id": "2068611775768215970",
@@ -1059,10 +1059,10 @@
       "views": 157,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 159,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2068541086671274035": {
       "id": "2068541086671274035",
@@ -1077,10 +1077,10 @@
       "views": 223,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 224,
-      "link_clicks": null,
-      "profile_clicks": 1,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "organic_impressions": 0,
+      "link_clicks": 0,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2068456186744328583": {
       "id": "2068456186744328583",
@@ -1095,10 +1095,10 @@
       "views": 28,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 30,
+      "organic_impressions": 0,
       "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2068306704236736928": {
       "id": "2068306704236736928",
@@ -1113,10 +1113,10 @@
       "views": 37,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 40,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2068275574703788415": {
       "id": "2068275574703788415",
@@ -1131,10 +1131,10 @@
       "views": 150,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 152,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2068227577680892141": {
       "id": "2068227577680892141",
@@ -1149,10 +1149,10 @@
       "views": 157,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 160,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2068166588134494641": {
       "id": "2068166588134494641",
@@ -1167,10 +1167,10 @@
       "views": 157,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 159,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2068126327471825153": {
       "id": "2068126327471825153",
@@ -1185,10 +1185,10 @@
       "views": 231,
       "first_seen": "2026-06-22T23:44:40.737837+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 247,
-      "link_clicks": 2,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2069208820635803836": {
       "id": "2069208820635803836",
@@ -1203,10 +1203,10 @@
       "views": 99,
       "first_seen": "2026-06-23T00:05:43.706733+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 99,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2069194117033181395": {
       "id": "2069194117033181395",
@@ -1221,10 +1221,10 @@
       "views": 13,
       "first_seen": "2026-06-23T00:05:43.706733+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 13,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2069192774147334447": {
       "id": "2069192774147334447",
@@ -1239,10 +1239,10 @@
       "views": 160,
       "first_seen": "2026-06-23T00:05:43.706733+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 168,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2069191587754848664": {
       "id": "2069191587754848664",
@@ -1257,10 +1257,10 @@
       "views": 104,
       "first_seen": "2026-06-23T00:05:43.706733+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 126,
-      "link_clicks": 3,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2069093355519406429": {
       "id": "2069093355519406429",
@@ -1275,10 +1275,10 @@
       "views": 748,
       "first_seen": "2026-06-23T00:05:43.706733+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 755,
-      "link_clicks": null,
-      "profile_clicks": 1,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "organic_impressions": 0,
+      "link_clicks": 0,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2069089058043863073": {
       "id": "2069089058043863073",
@@ -1293,10 +1293,10 @@
       "views": 151,
       "first_seen": "2026-06-23T00:05:43.706733+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 152,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2069086028082872640": {
       "id": "2069086028082872640",
@@ -1311,10 +1311,10 @@
       "views": 311,
       "first_seen": "2026-06-23T00:05:43.706733+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 312,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2069035766513049975": {
       "id": "2069035766513049975",
@@ -1329,10 +1329,10 @@
       "views": 665,
       "first_seen": "2026-06-23T00:05:43.706733+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 667,
-      "link_clicks": 1,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2069035703862989151": {
       "id": "2069035703862989151",
@@ -1347,10 +1347,10 @@
       "views": 494,
       "first_seen": "2026-06-23T00:05:43.706733+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 497,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2068991736517665028": {
       "id": "2068991736517665028",
@@ -1365,10 +1365,10 @@
       "views": 1078,
       "first_seen": "2026-06-23T00:05:43.706733+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 1086,
-      "link_clicks": null,
-      "profile_clicks": 1,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "organic_impressions": 0,
+      "link_clicks": 0,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2068981687254397440": {
       "id": "2068981687254397440",
@@ -1383,10 +1383,10 @@
       "views": 508,
       "first_seen": "2026-06-23T00:05:43.706733+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 511,
-      "link_clicks": 2,
-      "profile_clicks": 1,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "organic_impressions": 0,
+      "link_clicks": 0,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2068960326180131189": {
       "id": "2068960326180131189",
@@ -1401,10 +1401,10 @@
       "views": 97,
       "first_seen": "2026-06-23T00:05:43.706733+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 99,
-      "link_clicks": null,
-      "profile_clicks": 3,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "organic_impressions": 0,
+      "link_clicks": 0,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2068891120436699259": {
       "id": "2068891120436699259",
@@ -1419,10 +1419,10 @@
       "views": 290,
       "first_seen": "2026-06-23T00:05:43.706733+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 290,
+      "organic_impressions": 0,
       "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2068877029940896014": {
       "id": "2068877029940896014",
@@ -1437,10 +1437,10 @@
       "views": 64,
       "first_seen": "2026-06-23T00:05:43.706733+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 64,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2069213756505395352": {
       "id": "2069213756505395352",
@@ -1455,10 +1455,10 @@
       "views": 492,
       "first_seen": "2026-06-23T00:46:40.937923+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 492,
-      "link_clicks": null,
-      "profile_clicks": 1,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "organic_impressions": 0,
+      "link_clicks": 0,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2069212584658534691": {
       "id": "2069212584658534691",
@@ -1473,10 +1473,10 @@
       "views": 16,
       "first_seen": "2026-06-23T00:46:40.937923+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 16,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2068905057748431299": {
       "id": "2068905057748431299",
@@ -1491,10 +1491,10 @@
       "views": 64,
       "first_seen": "2026-06-23T00:46:40.937923+00:00",
       "last_fetched": "2026-06-23T00:46:40.937923+00:00",
-      "organic_impressions": 66,
-      "link_clicks": 1,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2071407453212971279": {
       "id": "2071407453212971279",
@@ -1509,10 +1509,10 @@
       "views": 28,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-07-06T04:50:42.684511+00:00",
-      "organic_impressions": 28,
-      "link_clicks": null,
-      "profile_clicks": 1,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "organic_impressions": 0,
+      "link_clicks": 0,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2071370382024864128": {
       "id": "2071370382024864128",
@@ -1527,10 +1527,10 @@
       "views": 11,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 13,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2071353190944018732": {
       "id": "2071353190944018732",
@@ -1545,10 +1545,10 @@
       "views": 19,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 24,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2071224505351962864": {
       "id": "2071224505351962864",
@@ -1563,10 +1563,10 @@
       "views": 180,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 184,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2071198454991438301": {
       "id": "2071198454991438301",
@@ -1581,10 +1581,10 @@
       "views": 29,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 31,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2071167081996075256": {
       "id": "2071167081996075256",
@@ -1599,10 +1599,10 @@
       "views": 158,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 160,
-      "link_clicks": null,
-      "profile_clicks": 1,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "organic_impressions": 0,
+      "link_clicks": 0,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2071115187524960414": {
       "id": "2071115187524960414",
@@ -1617,10 +1617,10 @@
       "views": 140,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 141,
-      "link_clicks": null,
-      "profile_clicks": 3,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "organic_impressions": 0,
+      "link_clicks": 0,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2070810411587321903": {
       "id": "2070810411587321903",
@@ -1635,10 +1635,10 @@
       "views": 25,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 26,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2070775971834433737": {
       "id": "2070775971834433737",
@@ -1653,10 +1653,10 @@
       "views": 31,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 35,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2070727265323757702": {
       "id": "2070727265323757702",
@@ -1671,10 +1671,10 @@
       "views": 41,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 44,
-      "link_clicks": null,
-      "profile_clicks": 2,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "organic_impressions": 0,
+      "link_clicks": 0,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2070663256671465941": {
       "id": "2070663256671465941",
@@ -1689,10 +1689,10 @@
       "views": 208,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 223,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2070659286036881588": {
       "id": "2070659286036881588",
@@ -1707,10 +1707,10 @@
       "views": 38,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 39,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2070656856687612320": {
       "id": "2070656856687612320",
@@ -1725,10 +1725,10 @@
       "views": 154,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 157,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2070614676392579423": {
       "id": "2070614676392579423",
@@ -1743,10 +1743,10 @@
       "views": 35,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 35,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2070472643396923587": {
       "id": "2070472643396923587",
@@ -1761,10 +1761,10 @@
       "views": 91,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 124,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2070452535970738646": {
       "id": "2070452535970738646",
@@ -1779,10 +1779,10 @@
       "views": 18,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 18,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2070446560681300465": {
       "id": "2070446560681300465",
@@ -1797,10 +1797,10 @@
       "views": 1377,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 1496,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2070446508093190564": {
       "id": "2070446508093190564",
@@ -1815,10 +1815,10 @@
       "views": 820,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 842,
-      "link_clicks": null,
-      "profile_clicks": 1,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "organic_impressions": 0,
+      "link_clicks": 0,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2070400516551823472": {
       "id": "2070400516551823472",
@@ -1833,10 +1833,10 @@
       "views": 27,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 27,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2070340953123029257": {
       "id": "2070340953123029257",
@@ -1851,10 +1851,10 @@
       "views": 31,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 31,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2070301527781118282": {
       "id": "2070301527781118282",
@@ -1869,10 +1869,10 @@
       "views": 578,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 599,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2070297001430765781": {
       "id": "2070297001430765781",
@@ -1887,10 +1887,10 @@
       "views": 78,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 80,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2070293963580338334": {
       "id": "2070293963580338334",
@@ -1905,10 +1905,10 @@
       "views": 72,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 72,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2070270718051229745": {
       "id": "2070270718051229745",
@@ -1923,10 +1923,10 @@
       "views": 26,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 26,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2070108727273722292": {
       "id": "2070108727273722292",
@@ -1941,10 +1941,10 @@
       "views": 90,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 99,
-      "link_clicks": null,
-      "profile_clicks": 1,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "organic_impressions": 0,
+      "link_clicks": 0,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2070082422159323592": {
       "id": "2070082422159323592",
@@ -1959,10 +1959,10 @@
       "views": 1758,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 1778,
-      "link_clicks": null,
-      "profile_clicks": 2,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "organic_impressions": 0,
+      "link_clicks": 0,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2070082351988625464": {
       "id": "2070082351988625464",
@@ -1977,10 +1977,10 @@
       "views": 732,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 742,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2070059740906799223": {
       "id": "2070059740906799223",
@@ -1995,10 +1995,10 @@
       "views": 22,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 22,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2070021922692239608": {
       "id": "2070021922692239608",
@@ -2013,10 +2013,10 @@
       "views": 231,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 231,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2070014666634645960": {
       "id": "2070014666634645960",
@@ -2031,10 +2031,10 @@
       "views": 586,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 592,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2070005142632513950": {
       "id": "2070005142632513950",
@@ -2049,10 +2049,10 @@
       "views": 594,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 600,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2069972578949816404": {
       "id": "2069972578949816404",
@@ -2067,10 +2067,10 @@
       "views": 286,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 289,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2069964209904095266": {
       "id": "2069964209904095266",
@@ -2085,10 +2085,10 @@
       "views": 518,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 520,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2069938823031603228": {
       "id": "2069938823031603228",
@@ -2103,10 +2103,10 @@
       "views": 247,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 250,
-      "link_clicks": null,
-      "profile_clicks": 3,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "organic_impressions": 0,
+      "link_clicks": 0,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2069935577768583545": {
       "id": "2069935577768583545",
@@ -2121,10 +2121,10 @@
       "views": 140,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 141,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2069933028483469489": {
       "id": "2069933028483469489",
@@ -2139,10 +2139,10 @@
       "views": 110,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 110,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2069915149348061687": {
       "id": "2069915149348061687",
@@ -2157,10 +2157,10 @@
       "views": 26,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 26,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2069902383430406471": {
       "id": "2069902383430406471",
@@ -2175,10 +2175,10 @@
       "views": 133,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 133,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2069900628718232021": {
       "id": "2069900628718232021",
@@ -2193,10 +2193,10 @@
       "views": 239,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 239,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2069899488668643562": {
       "id": "2069899488668643562",
@@ -2211,10 +2211,10 @@
       "views": 180,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 181,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2069890806924599363": {
       "id": "2069890806924599363",
@@ -2229,10 +2229,10 @@
       "views": 37,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 38,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2069752491605139657": {
       "id": "2069752491605139657",
@@ -2247,10 +2247,10 @@
       "views": 80,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 82,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2069747778146980347": {
       "id": "2069747778146980347",
@@ -2265,10 +2265,10 @@
       "views": 93,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 93,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2069726042076442626": {
       "id": "2069726042076442626",
@@ -2283,10 +2283,10 @@
       "views": 161,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 162,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2069721424097628227": {
       "id": "2069721424097628227",
@@ -2301,10 +2301,10 @@
       "views": 246,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 253,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2069721360541053115": {
       "id": "2069721360541053115",
@@ -2319,10 +2319,10 @@
       "views": 73,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 78,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2069673549925687473": {
       "id": "2069673549925687473",
@@ -2337,10 +2337,10 @@
       "views": 85,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 85,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2069671502275072215": {
       "id": "2069671502275072215",
@@ -2355,10 +2355,10 @@
       "views": 202,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 203,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2069614916684652856": {
       "id": "2069614916684652856",
@@ -2373,10 +2373,10 @@
       "views": 67,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 67,
-      "link_clicks": null,
-      "profile_clicks": 1,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "organic_impressions": 0,
+      "link_clicks": 0,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2069609827324563610": {
       "id": "2069609827324563610",
@@ -2391,10 +2391,10 @@
       "views": 353,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 355,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2069573631215128668": {
       "id": "2069573631215128668",
@@ -2409,10 +2409,10 @@
       "views": 320,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 321,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2069569777006236028": {
       "id": "2069569777006236028",
@@ -2427,10 +2427,10 @@
       "views": 137,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 138,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2069568115655250000": {
       "id": "2069568115655250000",
@@ -2445,10 +2445,10 @@
       "views": 110,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 110,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2069552587335225427": {
       "id": "2069552587335225427",
@@ -2463,10 +2463,10 @@
       "views": 37,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 38,
-      "link_clicks": null,
-      "profile_clicks": 1,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "organic_impressions": 0,
+      "link_clicks": 0,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2069529541844816061": {
       "id": "2069529541844816061",
@@ -2481,10 +2481,10 @@
       "views": 108,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 109,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2069389047785541937": {
       "id": "2069389047785541937",
@@ -2499,10 +2499,10 @@
       "views": 110,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 114,
-      "link_clicks": null,
-      "profile_clicks": 1,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "organic_impressions": 0,
+      "link_clicks": 0,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2069384728000749586": {
       "id": "2069384728000749586",
@@ -2517,10 +2517,10 @@
       "views": 76,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 76,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2069362354513440948": {
       "id": "2069362354513440948",
@@ -2535,10 +2535,10 @@
       "views": 191,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 196,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2069362299761033446": {
       "id": "2069362299761033446",
@@ -2553,10 +2553,10 @@
       "views": 470,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 472,
-      "link_clicks": null,
-      "profile_clicks": 1,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "organic_impressions": 0,
+      "link_clicks": 0,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2069336605043953970": {
       "id": "2069336605043953970",
@@ -2571,10 +2571,10 @@
       "views": 74,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 74,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2069279335173767178": {
       "id": "2069279335173767178",
@@ -2589,10 +2589,10 @@
       "views": 30,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 30,
-      "link_clicks": null,
-      "profile_clicks": 1,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "organic_impressions": 0,
+      "link_clicks": 0,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2069275914459131989": {
       "id": "2069275914459131989",
@@ -2607,10 +2607,10 @@
       "views": 488,
       "first_seen": "2026-06-29T05:11:34.982552+00:00",
       "last_fetched": "2026-06-29T05:11:34.982552+00:00",
-      "organic_impressions": 502,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2073199090687484051": {
       "id": "2073199090687484051",
@@ -2625,10 +2625,10 @@
       "views": 348,
       "first_seen": "2026-07-06T04:50:42.684511+00:00",
       "last_fetched": "2026-07-06T04:50:42.684511+00:00",
-      "organic_impressions": 348,
-      "link_clicks": null,
-      "profile_clicks": 2,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "organic_impressions": 0,
+      "link_clicks": 0,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2073194217879339449": {
       "id": "2073194217879339449",
@@ -2643,10 +2643,10 @@
       "views": 127,
       "first_seen": "2026-07-06T04:50:42.684511+00:00",
       "last_fetched": "2026-07-06T04:50:42.684511+00:00",
-      "organic_impressions": 127,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2073005995651908085": {
       "id": "2073005995651908085",
@@ -2661,10 +2661,10 @@
       "views": 83,
       "first_seen": "2026-07-06T04:50:42.684511+00:00",
       "last_fetched": "2026-07-06T04:50:42.684511+00:00",
-      "organic_impressions": 82,
-      "link_clicks": null,
-      "profile_clicks": 1,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "organic_impressions": 0,
+      "link_clicks": 0,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2072979117364883479": {
       "id": "2072979117364883479",
@@ -2679,10 +2679,10 @@
       "views": 849,
       "first_seen": "2026-07-06T04:50:42.684511+00:00",
       "last_fetched": "2026-07-06T04:50:42.684511+00:00",
-      "organic_impressions": 847,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2072837226023547258": {
       "id": "2072837226023547258",
@@ -2697,10 +2697,10 @@
       "views": 272,
       "first_seen": "2026-07-06T04:50:42.684511+00:00",
       "last_fetched": "2026-07-06T04:50:42.684511+00:00",
-      "organic_impressions": 272,
-      "link_clicks": null,
-      "profile_clicks": 1,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "organic_impressions": 0,
+      "link_clicks": 0,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2072831453637853573": {
       "id": "2072831453637853573",
@@ -2715,10 +2715,10 @@
       "views": 68,
       "first_seen": "2026-07-06T04:50:42.684511+00:00",
       "last_fetched": "2026-07-06T04:50:42.684511+00:00",
-      "organic_impressions": 68,
-      "link_clicks": null,
-      "profile_clicks": 1,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "organic_impressions": 0,
+      "link_clicks": 0,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2072643795968024983": {
       "id": "2072643795968024983",
@@ -2733,10 +2733,10 @@
       "views": 135,
       "first_seen": "2026-07-06T04:50:42.684511+00:00",
       "last_fetched": "2026-07-06T04:50:42.684511+00:00",
-      "organic_impressions": 135,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2072475401713271244": {
       "id": "2072475401713271244",
@@ -2751,10 +2751,10 @@
       "views": 249,
       "first_seen": "2026-07-06T04:50:42.684511+00:00",
       "last_fetched": "2026-07-06T04:50:42.684511+00:00",
-      "organic_impressions": 250,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2072470738192212259": {
       "id": "2072470738192212259",
@@ -2769,10 +2769,10 @@
       "views": 91,
       "first_seen": "2026-07-06T04:50:42.684511+00:00",
       "last_fetched": "2026-07-06T04:50:42.684511+00:00",
-      "organic_impressions": 91,
-      "link_clicks": null,
-      "profile_clicks": 1,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "organic_impressions": 0,
+      "link_clicks": 0,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2072288128274948323": {
       "id": "2072288128274948323",
@@ -2787,10 +2787,10 @@
       "views": 62,
       "first_seen": "2026-07-06T04:50:42.684511+00:00",
       "last_fetched": "2026-07-06T04:50:42.684511+00:00",
-      "organic_impressions": 62,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2072266330867159101": {
       "id": "2072266330867159101",
@@ -2805,10 +2805,10 @@
       "views": 427,
       "first_seen": "2026-07-06T04:50:42.684511+00:00",
       "last_fetched": "2026-07-06T04:50:42.684511+00:00",
-      "organic_impressions": 428,
-      "link_clicks": null,
-      "profile_clicks": 1,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "organic_impressions": 0,
+      "link_clicks": 0,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2072215069539405964": {
       "id": "2072215069539405964",
@@ -2823,10 +2823,10 @@
       "views": 268,
       "first_seen": "2026-07-06T04:50:42.684511+00:00",
       "last_fetched": "2026-07-06T04:50:42.684511+00:00",
-      "organic_impressions": 269,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2072149205309649178": {
       "id": "2072149205309649178",
@@ -2841,10 +2841,10 @@
       "views": 400,
       "first_seen": "2026-07-06T04:50:42.684511+00:00",
       "last_fetched": "2026-07-06T04:50:42.684511+00:00",
-      "organic_impressions": 400,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2072112833102594360": {
       "id": "2072112833102594360",
@@ -2859,10 +2859,10 @@
       "views": 425,
       "first_seen": "2026-07-06T04:50:42.684511+00:00",
       "last_fetched": "2026-07-06T04:50:42.684511+00:00",
-      "organic_impressions": 428,
-      "link_clicks": null,
-      "profile_clicks": 2,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "organic_impressions": 0,
+      "link_clicks": 0,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2072107334726258759": {
       "id": "2072107334726258759",
@@ -2877,10 +2877,10 @@
       "views": 72,
       "first_seen": "2026-07-06T04:50:42.684511+00:00",
       "last_fetched": "2026-07-06T04:50:42.684511+00:00",
-      "organic_impressions": 72,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2071922021416505517": {
       "id": "2071922021416505517",
@@ -2895,10 +2895,10 @@
       "views": 110,
       "first_seen": "2026-07-06T04:50:42.684511+00:00",
       "last_fetched": "2026-07-06T04:50:42.684511+00:00",
-      "organic_impressions": 110,
-      "link_clicks": null,
-      "profile_clicks": 1,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "organic_impressions": 0,
+      "link_clicks": 0,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2071898242636279971": {
       "id": "2071898242636279971",
@@ -2913,10 +2913,10 @@
       "views": 638,
       "first_seen": "2026-07-06T04:50:42.684511+00:00",
       "last_fetched": "2026-07-06T04:50:42.684511+00:00",
-      "organic_impressions": 644,
-      "link_clicks": null,
-      "profile_clicks": 1,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "organic_impressions": 0,
+      "link_clicks": 0,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2071848881982165094": {
       "id": "2071848881982165094",
@@ -2931,10 +2931,10 @@
       "views": 73,
       "first_seen": "2026-07-06T04:50:42.684511+00:00",
       "last_fetched": "2026-07-06T04:50:42.684511+00:00",
-      "organic_impressions": 73,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2071785298858803299": {
       "id": "2071785298858803299",
@@ -2949,10 +2949,10 @@
       "views": 97,
       "first_seen": "2026-07-06T04:50:42.684511+00:00",
       "last_fetched": "2026-07-06T04:50:42.684511+00:00",
-      "organic_impressions": 97,
-      "link_clicks": null,
-      "profile_clicks": 1,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "organic_impressions": 0,
+      "link_clicks": 0,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2071743842949255194": {
       "id": "2071743842949255194",
@@ -2967,10 +2967,10 @@
       "views": 97,
       "first_seen": "2026-07-06T04:50:42.684511+00:00",
       "last_fetched": "2026-07-06T04:50:42.684511+00:00",
-      "organic_impressions": 97,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2071579749349315028": {
       "id": "2071579749349315028",
@@ -2985,10 +2985,10 @@
       "views": 212,
       "first_seen": "2026-07-06T04:50:42.684511+00:00",
       "last_fetched": "2026-07-06T04:50:42.684511+00:00",
-      "organic_impressions": 213,
-      "link_clicks": null,
-      "profile_clicks": 1,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "organic_impressions": 0,
+      "link_clicks": 0,
+      "profile_clicks": 0,
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2071563583754768487": {
       "id": "2071563583754768487",
@@ -3003,10 +3003,10 @@
       "views": 62,
       "first_seen": "2026-07-06T04:50:42.684511+00:00",
       "last_fetched": "2026-07-06T04:50:42.684511+00:00",
-      "organic_impressions": 62,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2071557165047808329": {
       "id": "2071557165047808329",
@@ -3021,10 +3021,10 @@
       "views": 1029,
       "first_seen": "2026-07-06T04:50:42.684511+00:00",
       "last_fetched": "2026-07-06T04:50:42.684511+00:00",
-      "organic_impressions": 1032,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2071557105404776917": {
       "id": "2071557105404776917",
@@ -3039,10 +3039,10 @@
       "views": 312,
       "first_seen": "2026-07-06T04:50:42.684511+00:00",
       "last_fetched": "2026-07-06T04:50:42.684511+00:00",
-      "organic_impressions": 313,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     },
     "2071484813547098145": {
       "id": "2071484813547098145",
@@ -3057,10 +3057,10 @@
       "views": 19,
       "first_seen": "2026-07-06T04:50:42.684511+00:00",
       "last_fetched": "2026-07-06T04:50:42.684511+00:00",
-      "organic_impressions": 19,
-      "link_clicks": null,
+      "organic_impressions": 0,
+      "link_clicks": 0,
       "profile_clicks": 0,
-      "metrics_fetched": "2026-07-06T04:50:47.970836+00:00"
+      "metrics_fetched": "2026-07-13T04:08:44.321881+00:00"
     }
   }
 }
